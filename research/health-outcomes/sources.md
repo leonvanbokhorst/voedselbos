@@ -2,6 +2,22 @@
 
 Retrieval date **2026-11-26** unless stated. Every entry records the portal URL actually requested, the owner/publisher, the edition or period, what was used, read depth, and the defect or caveat that makes the source weaker than it looks. `source_read` was the retrieval channel for every entry; sha256 values are recorded in the session log where cited in the note as verified. Access failures are recorded in §G, not hidden.
 
+## 0. Revision record — what was withdrawn, and why
+
+**This register is the record of a superseded judgement, not only of what survived.** A reviewer is entitled to see that an earlier finding was corrected rather than never made, so the withdrawals are stated here in the artefact that carries the retrieval history.
+
+| Withdrawn statement | Where it was made | Why it was withdrawn | What survived |
+|---|---|---|---|
+| "The ecological half of the answer is **thinner than the human half**: no Dutch standard protocol for volunteer-measurable soil or infiltration indicators was retrieved in this pass, so §4.4's costs are order-of-magnitude." | First submitted draft of §10 ("Degradation, stated plainly"), item 3 | **The delegated ecological line returned after submission**, and its pivotal source (`EB1`) was then re-read at full text here, and `EB5` (EU Soil Monitoring Law) retrieved independently. Dutch protocols **do** exist and are now named in §4.4. | §4.4's volunteer hours remain order-of-magnitude estimates computed from each protocol's own sample counts, with **one** retrieved price (`EB9`, NEN 5754 at €33). That narrower limit is retained. |
+| "A second delegated line (ecological indicators) was started but **its result had not returned at the time of writing**; where it would have carried the protocol names in §4.4, this note leaves them generic rather than guessing." | First submitted draft of §10, item 4 | Superseded by the same arrival. The line returned before publication of the final commit, and its output is `working/line-b-ecological-indicators.md`. | The principle — *do not guess a protocol name* — was honoured: the draft said it did not know, rather than naming a protocol it had not read. |
+| The framing that the ecological benefit claims were merely **"Insufficient … nobody has looked"** | §3.2, first draft | **Replaced by a documented absence**: the food-forestry scoping review reports ten comparative studies and **none** addressing interaction with other land use; **no** study of plant biodiversity quantifying indices; and **zero occurrences** of *infiltration, hydrology, drought, runoff, soil moisture* in the full text (verified independently by the Lead on a separate copy). | "Insufficient" survives only as the verdict for **this site's** claim, not as a description of the literature. |
+
+**Not withdrawn, and re-confirmed by the Lead's independent check:** the four `EB1` quotations verbatim; the zero-occurrence water search; the "+2 gezonde jaren" finding; the claim ladder; and the six dataset defects in §A.
+
+**Revising this note.** The note was written and revised in one session on 2026-11-26; it supersedes its own first draft within that session. A later pass that changes a proposition should add a row here rather than editing the prose silently.
+
+---
+
 **Read-depth convention:** **FT** = full text read; **ABS** = abstract or summary read only; **META** = dataset metadata/schema read; **Q** = a query executed against a published API or export, with the query reproduced here; **COMP** = computed by this note from a `Q` result.
 
 ---

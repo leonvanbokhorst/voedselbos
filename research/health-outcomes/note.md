@@ -315,6 +315,7 @@ States as in the sibling notes: **Supports** / **Contradicts** / **Insufficient*
 5. **Soil contamination on candidate parcels** — deliberately excluded without site allocation; the general constraint literature is in `S2` §3.4.
 6. **Whether the municipal green register's exclusion of solitary trees changes the green-poor ranking** — a computable follow-up on `E2` + `E3`, not attempted here.
 7. **Indoor heat and housing quality** — the city names it as a harm and it is out of scope of every heat study retrieved [D, `S2` §3.1].
+8. **NDFF protocol 104.005 "Flora- en faunamonitoring Gemeente Eindhoven"** — identified from the NDFF protocol inventory as a municipal flora-and-fauna monitoring series, and **deliberately not opened** [D, `EB11`]. It is the first door to knock on for an ecological baseline for a *named* site, but that is a different question from this outcome framework: it asks what has already been recorded for one place, not what a garden's ecological claim can bear. **Recorded here as a flag for the PI to route, not as work this note should have done** — the retrieval was in scope, the analysis is not.
 
 ---
 
@@ -337,7 +338,9 @@ States as in the sibling notes: **Supports** / **Contradicts** / **Insufficient*
 - **The human line is better sourced than the ecological line.** No Dutch standard protocol for volunteer-measurable soil or infiltration indicators was retrieved; §4.4's cost estimates are order-of-magnitude and its "must be created" verdicts rest on the absence of a local baseline rather than on a survey of protocols.
 - **Several load-bearing local numbers are computed by this note from exports**, not published: the 4,155/8,765 facet counts, the 157/4,155 distribution, the 70 records across 17 strings, the 0/117 CBS emptiness. Each is reproducible from the query recorded in `sources.md`, and each is a computation rather than a retrieved statement.
 - **No participant voice.** Nothing here can say what anyone experienced. The framework is built from documents and studies, and the people it is about are absent from all of them [D, `S4` §4].
-- **The normativity is real.** The choice to privilege delivery and exposure over outcome claims, and the refusal to make participation conditional on measurement, are positions [I], argued from the evidence and from this repository's own commitments, not derived from it.
+- **Withdrawal, recorded rather than silent.** Two statements in this note's first submitted draft — that the ecological half was "thinner than the human half" for want of any Dutch protocol, and that the delegated ecological line "had not returned" — are **withdrawn**, because the line returned before publication and its pivotal source was then re-read at full text here. The surviving limit is narrower (hours are estimates; one price was retrieved). The full record of what was withdrawn and why is in [`sources.md`](sources.md) §0, so a reader of the final artefact can see the judgement was superseded rather than never made.
+
+**The normativity is real.** The choice to privilege delivery and exposure over outcome claims, and the refusal to make participation conditional on measurement, are positions [I], argued from the evidence and from this repository's own commitments, not derived from it.
 
 ---
 
