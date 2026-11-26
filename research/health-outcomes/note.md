@@ -153,6 +153,8 @@ States as in the sibling notes: **Supports** / **Contradicts** / **Insufficient*
 
 **The cheapest credible ecological minimum, stated as a refusal** [I, from the above]: one tagged-plant survival census per year, one soil sample per year with the method stated, and one species list per year by a competent identifier — and an explicit refusal to claim biodiversity *benefit*, carbon, water balance or connectivity from them. **Three observations a year is a record. It is not a monitoring programme, and calling it one would be the same error as the "+2 gezonde jaren".**
 
+**Two protocol gaps this pass could not close** [U]. The two Dutch candidate protocols that would let §4.4 name methods rather than categories were both unretrievable: the **Bodemdierendagen** soil-animal protocol (NIOO) served a JavaScript proof-of-work bot gate — an access boundary, not bypassed — and the **Louis Bolk Institute** soil-monitoring protocol PDF aborted twice [recorded in `sources.md` §G]. **So the note can say what should be observed and what it cannot show; it cannot yet say, from a retrieved source, whose measurement protocol a volunteer should follow.** That is a bounded, closable gap and the most obvious next retrieval for this line.
+
 ---
 
 ## 5. The trade-off map
