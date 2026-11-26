@@ -400,6 +400,143 @@ Volunteer recruitment, publicly advertised: "Klusochtend — Elke 2e en 4e zater
 
 ---
 
+## R18 — Gemeente Eindhoven, *Subsidies in Eindhoven – 2025* (Woo publication of outgoing subsidies)
+
+- **Publisher:** Gemeente Eindhoven. Published under the *Wet open overheid*; "Iedereen kan deze publicatie digitaal raadplegen op eindhoven.nl/subsidies."
+- **Date:** publication file dated 2025-05; **snapshot: only subsidies granted up to 6 March 2025 for subsidy year 2025** (Disclaimer, p.4). Retrieved 26-11-2026.
+- **URL:** `https://www.eindhoven.nl/sites/default/files/2025-05/Subsidies%20in%20Eindhoven%20%E2%80%93%202025.pdf`
+- **Obtained:** PDF, 4,547,948 bytes, `sha256 9d0a0221dfdcd1c20646c562955bf37030252fd722190b94125b6c54a58dc942`, 153,287 chars; 30,000 returned inline and the named tables read from the retained spill file. **Read depth:** Tables 1, 5, 8, 15, 16, 20, 24 and 38 read directly; the volunteer-scheme recipient list (4.4.9 / Tabel 24) read in full; the whole document searched for `groen|tuin|natuur|Wasven|Phood|voedsel`.
+- **Correction recorded (Lead verification, 26-11-2026):** an earlier sentence in this note and in `note.md` conflated the sector total with the budget-subsidy line. The disaggregation below supersedes it.
+
+**Why this source matters.** It is the municipality's own list of who receives what, with each scheme's ceiling and remainder. It converts several of this note's categorical claims into measured ones.
+
+**Pivotal quotations and figures.**
+
+1. Scope and totals (p.5, Tabel 1): total outgoing subsidies **€152,137,979**, of which begrotingssubsidies €76,313,569. For *Ruimtelijk Domein* Tabel 1 gives **Begrotingssubsidies €232,000 · Subsidieregelingen €800 · Incidentele €0 · Totaal €232,800**.
+
+2. **The sector disaggregates, and the €800 is identifiable.** Of the €232,800, **€232,000** is the budget-subsidy line and **€800** is a subsidy scheme. Tabel 15, "Subsidieontvangers Sloop brommers en scooters", reads:
+   > "Natuurlijke personen (2 personen x € 400) | Tegemoetkoming in de kosten voor het laten slopen van oude scooters en brommers | **800**"
+   Two natural persons, not an organisation. The sector therefore contains exactly **one organisational payment**, and it is the advisory contract below.
+
+3. The whole of the €232,000 budget-subsidy line, p.7 (Tabel 5, "Begrotingssubsidies Ruimtelijk domein") — one row:
+   > "**Trefpunt Groen Eindhoven** | Netwerkorganisatie voor gemeente Eindhoven en haar inwoners om de lokale groene leefomgeving te bewaken en te versterken | **232.000**"
+   Total: 232.000. The municipality itself describes the organisation as a **"netwerkorganisatie"** — a network organisation — for the city and its inhabitants.
+
+4. Events (p.10, Tabel 8): "Stichting Groendomein Wasven | Organiseren Evenementen Wasven | **3.900**".
+
+5. **Basisdagbesteding volwassenen** (pp.21–23). The regulation: "Alle inwoners met een ondersteuningsbehoefte … kunnen … terecht bij een, voor hen passende, laagdrempelige voorziening in hun eigen omgeving (indicatievrij)"; applicants may be "Zowel rechtspersonen als natuurlijke personen". Table 16 includes:
+   > "Stichting Groendomein Wasven | Organiseren indicatievrije basisdagbesteding Locatie Wasven | **148.394**"
+   > "Stichting Phood Farm | Organiseren indicatievrije basisdagbesteding … | **22.450**" and "… | **48.990**"
+   Total of Tabel 16: **5.272.000**. (The two Phood amounts are at two locations; €71,440 is their sum, used in the note's summary only.)
+
+6. **The ceiling is fully committed** (p.49, financial overview of the Sociaal domein):
+   > "Basisdagbesteding volwassenen | Plafond 2025 (€) **5.272.000** | Subsidie 2025 (€) **5.272.000** | Restant (€) **0**"
+
+7. **The volunteer schemes were *not* exhausted** (same table):
+   > "Versterken Sociale Basis voor vrijwilligers | **1.416.716** | **1.288.681** | **128.035**"
+   > "Versterken Sociale Basis | **23.383.900** | **21.898.601** | **1.485.299**"
+
+8. **The volunteer scheme is open all year for one-off amounts** (p.36, 4.4.9):
+   > "Categorie A is bedoeld voor jaarlijks terugkerende activiteiten. Aanvragen vóór 1 oktober voor het eerstvolgende kalenderjaar… Vrijwilligersorganisaties met betalende leden ontvangen maximaal 70% van de subsidiabele kosten. Natuurlijke personen kunnen maximaal € 15.000,– aanvragen."
+   > "Categorie B is bedoeld voor eenmalige activiteiten en initiatieven en kunnen het hele jaar door worden aangevraagd. … Er kan maximaal € 15.000,– worden aangevraagd."
+   > "Wie kan subsidie aanvragen? Vrijwilligersorganisaties en natuurlijke personen."
+
+9. **Green-environment recipients in the whole publication: three.** Trefpunt Groen Eindhoven (€232,000); Stichting Groendomein Wasven (€3,900 + €148,394 + €24,300); Stichting Phood Farm (€22,450 + €48,990). No garden, buurttuin, food forest, Struikroven, Groen Bennekel, IVN, Natuurmonumenten or Brabants Landschap appears anywhere in the document. The volunteer-scheme recipient list (**Tabel 24**, total €1,288,681) is scouting groups, self-organisations of minority communities, elderly associations, kinderkamp organisers and a parkinson café — **no green initiative**.
+
+**Caveats carried into the note.** The publication is a **momentopname to 6 March 2025**; awards made later in 2025 are absent. "Ruimtelijk Domein" is a *budget sector*, not a claim that no other spatial subsidy exists — the Lichtbos investment (R5) is capital and a *reserve*, not a begrotingssubsidie, and is outside this publication. Absence from this list is strong evidence about subsidy *recipients*, not about any other municipal support (land, capital programmes, in-kind).
+
+---
+
+## R19 — Wasven, *Trefpunt Groen Eindhoven* (partner page)
+
+- **Publisher:** Groendomein Het Wasven. Undated; live. Retrieved 26-11-2026.
+- **URL:** `https://wasven.nl/partners/trefpunt-groen-eindhoven/`
+- **Obtained:** HTML→text, 224,620 bytes, `sha256 08d721397b1d360091611f8712f235b1e0ac528dbd6b3817e8ac9829866e2a3f`, 4,906 chars. **Read depth:** full extracted text (the page body is one paragraph).
+
+**Verbatim, in full:**
+
+> "Trefpunt Groen Eindhoven is **de waakhond van de groene leefomgeving** in Eindhoven. Het Trefpunt zit vanaf de planvorming met de gemeente om tafel en geeft advies over natuur, milieu, ecologie, duurzaamheid en cultuurhistorie. **Bij Trefpunt Groen Eindhoven zijn ruim honderd groepen aangesloten, waaronder het Wasven.** Al sinds de oprichting in 2002 werken we samen om de kwaliteit van de leefomgeving te verbeteren."
+
+**Load-bearing for this note, in three directions.**
+1. **A documented membership edge — the one edge the merged network note (#1) does not have.** The largest green landholder in the city is a member of the city's green advocacy body, on the member's own account, since 2002. Standing affiliation, not co-programming.
+2. **A correction to my own first draft:** Trefpunt claims **more than a hundred affiliated groups**, of which Wasven is one — so Trefpunt's public network map (R2, six rendered nodes) is a **rendering**, not the network's size. Any claim that the network is "six nodes" is an artefact of a JavaScript filter.
+3. **Provenance discipline:** the producer is **Wasven**, the member, not the body. It is one witness; Trefpunt's annual report gives no member list or count, so the ~100 figure is **[C]** on both sides and uncorroborated.
+
+---
+
+## R20 — Gemeente Eindhoven, *Raadsbrief: DAEB-aanwijsbesluit Stichting Groendomein Wasven*
+
+- **Publisher:** College van B&W. Inboeknummer 8136290_03, dossiernummer 26.11.209.
+- **Date:** B&W beslisdatum **10 March 2026**.
+- **URL:** `https://raadsinformatie.eindhoven.nl/document/16714650/1/8136290_03+Raadsbrief+DAEB-aanwijsbesluit+Stichting+Groendomein+Wasven?connection_type=17&connection_id=13101216`
+- **Obtained:** PDF, 88,640 bytes, `sha256 4afe2d208cae37bbe85a5916b80e7c16920d40e60936d0db241455dcddccc8db`, 2,171 chars. **Read depth:** full text (two pages).
+
+**Pivotal quotations.**
+
+> "Het college van burgemeester en wethouders heeft besloten het ecologisch beheer van de gemeentelijke gronden van Groendomein Wasven, in samenhang met de daaraan functioneel verbonden collectieve activiteiten van inwoners, aan te wijzen als **Dienst van Algemeen Economisch Belang (DAEB) voor de periode 2026–2035**."
+
+> "Met dit besluit wordt een bestaande samenwerking juridisch en bestuurlijk geborgd."
+
+> "De DAEB-aanwijzing maakt het mogelijk deze publieke taken rechtmatig te ondersteunen binnen het Europese staatssteunkader. De ondersteuning betreft uitsluitend ecologisch beheer en collectieve, laagdrempelige maatschappelijke activiteiten."
+
+> "Voor de uitvoering van de DAEB-taken stelt het college **structureel middelen** beschikbaar binnen de gemeentelijke begroting. Daarnaast wordt een eenmalige incidentele bijdrage verstrekt voor inrichtingskosten. De afspraken over uitvoering, monitoring en verantwoording worden vastgelegd in een gebruiks- en beheerovereenkomst."
+
+> "Met deze brief informeren wij u over dit besluit. **Er is geen besluitvorming door de raad vereist.**"
+
+**Load-bearing for this note:** a ten-year, legally secured, structurally funded, exclusive designation of a single undertaking to deliver a service of general economic interest on municipal ground — made by the college without a council decision. **The amount is not disclosed [U].**
+
+---
+
+## R21 — Stichting Groendomein Wasven, *ANBI-publicatie 2025* (standard ANBI form)
+
+- **Publisher:** Stichting Groendomein Wasven, Celebeslaan 30, KVK 17176851, RSIN 814421635.
+- **Date:** posting dated June 2026 (filename `ANBI-Groendomein-Wasven-2025-juni-2026-def.pdf`); financial year 2025.
+- **URL:** `https://wasven.nl/wp-content/uploads/2026/07/ANBI-Groendomein-Wasven-2025-juni-2026-def.pdf`
+- **Obtained:** PDF, 165,289 bytes, `sha256 536b174941adf40c20499ce7b425ffb3bf15f133c16144cafe9d8283a18e0568`, 19,352 chars; 10,000 returned inline, the financial statements read from the retained spill. **Read depth:** sections 1–3 and the *Staat van baten en lasten* read directly.
+
+**Pivotal content.**
+
+1. **Volunteer count, stated in a statutory filing:**
+   > "Aantal medewerkers (*) **0** — Betaalde personeelsleden in gemiddeld aantal fte gedurende het boekjaar."
+   > "Aantal vrijwilligers (*) **150** — Vrijwilligers die zich regelmatig (meer dan 3 keer per jaar) inzetten voor uw instelling."
+
+2. **The statutory object is neighbourhood-scoped, not city-wide:**
+   > "b) in sociale zin: het vergroten van de leefbaarheid en versterken van de sociale cohesie en identiteit van **Tongelre**, in relatie tot het Groendomein Wasven"
+   > "c) in economische zin: een financieel zo onafhankelijk mogelijke exploitatie en financiële en organisatorische continuïteit van de stichting op korte en lange termijn."
+
+3. **An explicit internal priority split, stated by the organisation:**
+   > "Het accent ligt in financieel opzicht op de werkzaamheden a, b en c [renting the farm to the other two foundations and the caretaker's house; managing buildings and green under the municipal management agreement; improvement projects] en in organisatorisch opzicht bij de werkzaamheden d en e [organising social activities; entering into reciprocal relations with suppliers, volunteers and local organisations]."
+
+4. **The subsidy line reads zero, and this is the methodological trap:**
+   > "Baten van subsidies | € **0** | € 0"
+   > "Som van alle baten | € **414.097** | € 310.993"
+   while the same legal entity received **€176,594** from the municipality in 2025 (€148,394 day-activity + €24,300 Global Goals + €3,900 events, R18). The income is booked as *"baten als tegenprestatie voor levering van producten en/of diensten"*.
+   > "De activiteiten vergen weliswaar veel inzet maar de kosten blijven laag omdat er nauwelijks sprake is van personeelskosten (vrijwilligerswerk)."
+
+**Load-bearing for this note:** (i) the deepest **documented volunteer base** in this corpus — 150 regular volunteers — sits inside the most institutionally secured organisation in it; (ii) municipal dependence cannot be read off ANBI forms, so revealed priority must be built from award documents; (iii) the organisation's own financial accent is on property and continuity, its organisational accent on social activity and reciprocal relations.
+
+---
+
+## R22 — Gemeenteblad 2025, 87805 — *Voornemen tot uitgifte van grond aan Groendomein Wasven* (second, independent Didam award)
+
+- **Publisher:** Gemeente Eindhoven. **Date:** 03-03-2025 09:00.
+- **URL:** `https://zoek.officielebekendmakingen.nl/gmb-2025-87805.html`
+- **Obtained:** HTML→text, 26,172 bytes, `sha256 90037a6938f074d2a70dbe141c5b218cf18e8ee99f615ff3e5aa6bc5c8092244`, 6,435 chars. **Read depth:** full text of the notice.
+
+**Pivotal quotations.**
+
+> "De gemeente en stichting Groendomein Wasven beogen een **huurovereenkomst** voor de uitgifte van de betreffende grond, groot circa **7.306 m2**, kadastraal bekend als het perceel Tongelre, sectie D, nummer 712, gelegen tegenover Celebeslaan 30 te Eindhoven. De overeenkomst zal ingaan na het verkrijgen van de Omgevingsvergunning en wordt aangegaan voor een **periode van 15 jaar, met de mogelijkheid tot verlenging**."
+
+> "Binnen het bestaande gebruik heeft de stichting Groendomein Wasven het plan om een klein deel van de grond in te richten als zonneakker, voor ecologisch natuurbeheer en biologische landbouw volgens **agroforestry** met daarbij teeltondersteunende voorzieningen in de vorm van zonnepanelen."
+
+> "1. Stichting Groendomein Wasven beheert deze gronden al geruime tijd … De stichting heeft expertise in duurzaam beheer en is **de natuurlijke voortzetter van het gebruik**. … 4. Vanwege de verwevenheid van de bestaande activiteiten met de locatie, is het **niet realistisch om een andere partij aan te wijzen** voor de uitgifte van deze specifieke grond."
+
+> "Op basis van deze argumenten beschouwt de gemeente stichting Groendomein Wasven, volgens objectieve en redelijke criteria, als de **enige geschikte kandidaat** voor de uitgifte van de grond."
+
+**Load-bearing for this note:** a **fifteen-year lease** on municipal ground, awarded to the sitting manager on incumbency grounds, in the same year as the food forest's closure on private ground with no written term **[D R8/P]**. Together with R4 and R20 this is the measured shape of the competition for land: a series of decisions that secure ground to those who already hold it, not a contest a volunteer forest could enter.
+
+---
+
 ## Sources consulted and deliberately not used as evidence
 
 - **Search-engine results and snippets** for Wasven annual accounts, subsidy registers and Phood financials: used to locate documents only. Nothing in `note.md` rests on a snippet.
