@@ -1,6 +1,6 @@
 # Voedselbos 2.0: what is visible, who is not, and whether visibility can organise it
 
-Issue #17. Research date 26 November 2026; public sources only, no stakeholder contact, no implementation. Sources [S1]–[S12] in `sources.md`. Builds on `../network/note.md` (the closed food forest was absent from Trefpunt Groen's *achterban*; the Groen Cafés, TGE's network map and Supportpunt are the city's existing visibility infrastructure).
+Issue #17. Research date 26 November 2026; public sources only, no stakeholder contact, no implementation. Sources [S1]–[S12] in `sources.md`. Evidence marks: [D] documented, [C] claimed, [I] inference, [U] not established, [P] provided by the commissioner (direct account, not public documentation). Builds on `../network/note.md` (the closed food forest was absent from Trefpunt Groen's *achterban*; the Groen Cafés, TGE's network map and Supportpunt are the city's existing visibility infrastructure).
 
 ## 1. What is publicly known about "Voedselbos 2.0": almost nothing — and that is the finding
 
@@ -62,7 +62,7 @@ The visibility question therefore has a prior question: *which* movement, and **
 
 ## 6. What visibility can and cannot fix, tested against the closure
 
-The documented fail points in `../network/note.md` were **land tenure** and **operator concentration**, not volunteer collapse. The public record now strengthens the first: the Elburglaan terrain is **private property**, "juist dat maakte de toekomst van het initiatief kwetsbaar" — the food forest used the ground for years, "maar die situatie bleek niet blijvend" [S3].
+The documented fail points in `../network/note.md` were **land tenure** and **operator concentration**, not volunteer collapse. The public record documents the private-property vulnerability: the Elburglaan terrain is **private property**, "juist dat maakte de toekomst van het initiatief kwetsbaar" — the food forest used the ground for years, "maar die situatie bleek niet blijvend" [S3]. The commissioner reports the landowner sold the land **[P]**; the buyer, date and terms are [U].
 
 - **Visibility cannot fix tenure.** No amount of attention converts private ground into secure ground. At best it creates the political demand that precedes an allocation.
 - **Visibility cannot fix operator concentration.** "Een groot deel van de activiteiten" ran through one practice [S3]; if the successor is again one person's offering, visibility raises the stakes of that concentration.

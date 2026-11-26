@@ -1,7 +1,7 @@
 # Continuity and the community that remains
 
 **Issues:** #16 (closure of Voedselbos Eindhoven as a learning case) and #7 (what keeps green initiatives alive beyond their volunteers).
-**Status:** desk research, public sources only, retrieved 2026-11-26. No stakeholder contact. Evidence labels: **[D]** documented in a retrieved source, **[C]** claimed by a single source, **[I]** inference, **[U]** not established.
+**Status:** desk research, public sources only, retrieved 2026-11-26. No stakeholder contact. Evidence labels: **[D]** documented in a retrieved source, **[C]** claimed by a single source, **[I]** inference, **[U]** not established, **[P]** provided by the commissioner (direct account, not public documentation).
 
 ---
 
@@ -26,7 +26,7 @@ Timeline, all **[D]** unless marked:
 | 25 Aug 2026 | Press: no new permanent location announced; Eindhoven absent from the national Open Voedselbossendag on 5 Sept. |
 | Nov 2026 | Site links "Nieuws van Natuurlijk Maartje" newsletter; coordinator's commercial calendar still lists the Elburglaan 8 site as a venue for a year-training (see §2). |
 
-The **reason** for the ending is not in the public record. The site notice gives no cause; press attributes the vulnerability to private ownership — "Het voedselbos kon jarenlang van de grond gebruikmaken, maar die situatie bleek niet blijvend" **[C]**. The owner, the terms of use, and the decision itself are **[U]**.
+The **reason** is a direct account, not a public document: the commissioner reports that the landowner sold the land **[P]**. The site notice gives no cause; press attributes the vulnerability to private ownership — "Het voedselbos kon jarenlang van de grond gebruikmaken, maar die situatie bleek niet blijvend" **[C]**. The buyer, date, price and terms are **[U]**.
 
 ## 2. What was lost, what persists
 
@@ -46,7 +46,7 @@ The **reason** for the ending is not in the public record. The site notice gives
 
 ## 3. Drivers: supported and not supported
 
-**Supported by the evidence.** (a) *Tenure.* The driver named by both the coordinator's framing ("kon jarenlang van de grond gebruikmaken") and the press is insecure use of private land **[D/C]**. (b) *Operator concentration.* Programme, public face, commercial products and volunteer coordination all ran through one person's practice; the 2019 handover shows succession is possible, but no second line is documented **[D/I]**. (c) *Capital in the wrong place.* Twelve years of soil, canopy, habitat and site knowledge were sunk into land the initiative did not control **[I]**.
+**Supported by the evidence.** (a) *Tenure.* The driver named by both the coordinator's framing ("kon jarenlang van de grond gebruikmaken") and the press is insecure use of private land **[D/C]**. The commissioner reports the landowner sold the land **[P]**. (b) *Operator concentration.* Programme, public face, commercial products and volunteer coordination all ran through one person's practice; the 2019 handover shows succession is possible, but no second line is documented **[D/I]**. (c) *Capital in the wrong place.* Twelve years of soil, canopy, habitat and site knowledge were sunk into land the initiative did not control **[I]**.
 
 **Not supported.** *Municipal policy change*: no evidence the municipality withdrew anything; it was in conversation in June 2026 and offered to think along. *Funding cut*: no subsidy to the food forest appears in any retrieved source. *Volunteer collapse*: contradicted by the November 2025 record of a full volunteer group. *De Wielewaal as cause*: the chronology is suggestive — the estate was bought by the municipality in 2022, opened to the public in Sept 2025, and a Natuurmonumenten visitor centre opened at Elburglaan 12 on 23 May 2026, two months before the food forest's closure notice **[D]** ([Omroep Brabant](https://www.omroepbrabant.nl/nieuws/6008437/natuurmonumenten-zet-dertig-gidsen-op-philips-priveparadijs-de-wielewaal)). But no retrieved source connects them, and "context, not cause" is the honest reading **[I]**.
 
@@ -75,4 +75,4 @@ Against those, the food forest held nothing: private land, no lease, no named le
 
 ## 6. What is not established
 
-The landowner's identity, the terms of use, and why the use ended. Whether any legal entity existed. Whether the volunteer group survives, and in what form. The coordinator's conditions for a new site. Whether municipal "meedenken" produced anything — the PvdD questions-half-hour and the municipal Lichtbos page were both blocked by Cloudflare and are unread (see sources). Effects on the city's wider green offer are beyond this note.
+The buyer, date, price and terms of the sale; the landowner's identity and the decision itself are a direct account from the commissioner **[P]**, not public documentation. Whether any legal entity existed. Whether the volunteer group survives, and in what form. The coordinator's conditions for a new site. Whether municipal "meedenken" produced anything — the PvdD questions-half-hour and the municipal Lichtbos page were both blocked by Cloudflare and are unread (see sources). Effects on the city's wider green offer are beyond this note.

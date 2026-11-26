@@ -20,7 +20,7 @@ Only two nodes are membership-like bodies that could *share* care work (Voedselb
 
 ## 2. Edge list
 
-**D** documented, **C** claimed, **I** inferred, **U** unexplored.
+**D** documented, **C** claimed, **I** inferred, **U** unexplored, **P** provided by the commissioner (direct account, not public documentation).
 
 | # | Edge | Type | Class | Source, date | Current |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Only two nodes are membership-like bodies that could *share* care work (Voedselb
 - No public trace that Voedselbos Eindhoven belonged to TGE's *achterban* or appears in TGE's 2025 report [S8], though both operate in the same city and green-market circuit [S10].
 - No trace of any Voedselbos–Phood or Voedselbos–Victoriapark relation.
 - No trace of a green-community role for Bij Albrecht; only restaurant listings [S9]. The brief's match is unresolved, not refuted.
-- **The closure is documented; its cause is not.** The site gives no reason [S1]; the June 2026 report says only that it would stop at the current site and was seeking a new location [S11]. Land tenure as the cause is an inference.
+- **The closure is documented; the cause is a direct account, not a public document.** The commissioner reports the landowner sold the land **[P]**. The site gives no reason [S1]; the June 2026 report says only that it would stop at the current site and was seeking a new location [S11]. The buyer, date and terms are [U].
 - Victoriapark was behind schedule: a municipal letter of 24-02-2026 is titled "Vertraging aanleg Victoriapark", and 2026 council questions ask "Nóg een zomer zonder Victoriapark?" [S13][S14]. Titles only, not read.
 
 ## 4. Operating models (#2)
