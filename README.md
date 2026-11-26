@@ -27,7 +27,7 @@ A rough map, not a priority list:
 - **Who is connected:** [#1 relationships](https://github.com/leonvanbokhorst/voedselbos/issues/1) · [#2 operating models](https://github.com/leonvanbokhorst/voedselbos/issues/2) · [#4 complementarity and conflict](https://github.com/leonvanbokhorst/voedselbos/issues/4) · [#5 reciprocity](https://github.com/leonvanbokhorst/voedselbos/issues/5) · [#14 history](https://github.com/leonvanbokhorst/voedselbos/issues/14)
 - **Care and capacity:** [#3 participation and exhaustion](https://github.com/leonvanbokhorst/voedselbos/issues/3) · [#7 continuity](https://github.com/leonvanbokhorst/voedselbos/issues/7) · [#9 who is the community](https://github.com/leonvanbokhorst/voedselbos/issues/9)
 - **Place and rules:** [#6 ecological limits](https://github.com/leonvanbokhorst/voedselbos/issues/6) · [#8 municipality](https://github.com/leonvanbokhorst/voedselbos/issues/8) · [#13 pillars](https://github.com/leonvanbokhorst/voedselbos/issues/13)
-- **Outcomes and tools:** [#10 health](https://github.com/leonvanbokhorst/voedselbos/issues/10) · [#12 AI](https://github.com/leonvanbokhorst/voedselbos/issues/12)
+- **Outcomes and tools:** [#10 health](https://github.com/leonvanbokhorst/voedselbos/issues/10) · [#25 health literacy](https://github.com/leonvanbokhorst/voedselbos/issues/25) · [#12 AI](https://github.com/leonvanbokhorst/voedselbos/issues/12)
 - **Doing:** [#11 experiments](https://github.com/leonvanbokhorst/voedselbos/issues/11)
 
 Issues are candidates, not a queue. `selected` and `parked` are the only labels, and the human applies them.
@@ -44,6 +44,7 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [Ecodorp Boekel](research/comparators/ecodorp-boekel.md) — the closest comparator, and what does not transfer.
 - [Decisions](research/decisions/note.md) — the four decision-critical uncertainties.
 - [Experiments](research/experiments/note.md) — three low-threshold proposals.
+- [Health literacy and shared green practice](research/health/note.md) — what the Dutch “half of us” figure actually measures, why food (not health) literacy is the construct with a gardening evidence base, and what the regional health movement is in 2026; sources in [`sources.md`](research/health/sources.md).
 
 Each note has a source list next to it.
 

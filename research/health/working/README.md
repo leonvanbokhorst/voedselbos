@@ -1,0 +1,24 @@
+# Working notes — raw material for [`../note.md`](../note.md)
+
+Output of four delegated lines plus the Lead's own verification for issue #25. Kept for traceability, **not** as evidence. The note is the deliverable; where a working file and the note disagree, the note governs.
+
+| File | Line | What it is |
+|---|---|---|
+| `lead-verification.md` | Lead | Independent re-read of the documents the issue brief itself hands the researcher: the DE STAP about page (the partner count is **193**, not 189), the Eindhoven directory inventory, the two named green/food listings, the Fontys 2023 article and the live CoE Health page. Verbatim quotations, sha256 prefixes, page-metadata dates, and the corrections that follow. |
+| `hl-construct.md` | delegated (A) | The health-literacy construct, the Dutch prevalence figures with their instruments and cut-offs, whether health literacy predicts behaviour, food literacy as the sibling construct, and the decisive search: was gardening ever used deliberately as a health-literacy intervention? Four recorded Europe PMC queries; 37 sources; abstract-level for the journal literature. |
+| `green-health-evidence.md` | delegated (B) | What has been measured in gardening, allotment, urban-agriculture and horticultural-therapy research; the named methodological critiques; the randomised/controlled subset; **the transfer and persistence question**, where the one well-powered test is null; and null, negative and contested findings given more space than positive ones. 24 sources, English-language bibliographic databases only. |
+| `regional-map.md` | delegated (C) | DE STAP naar gezonder as it actually is (a *beweging* with no public legal entity, an operator dissolved on 1 January 2026, a one-year GGD caretakership and €1.2m of subsidies ending in 2026); the 147-entry Eindhoven directory and its 14 green/food listings; the partnership and activity-submission routes; Positieve Gezondheid and its three retrieved Dutch critiques; Fontys' current involvement; GGD BZO and municipal prevention policy. 44 sources, mostly Dutch primary documents. |
+| `nl-programmes.md` | delegated (D) | Dutch green-health programmes and what is actually evaluated; Welzijn op Recept and the social-prescribing evidence including its null and weak findings; community cooking and food-literacy effects; situated learning and its documented failure modes; access and exclusion; and the reciprocity question — does an institution ever learn from the community? 25 sources. |
+
+**Marks.** The repository uses **[D]** documented in a retrieved source, **[C]** claimed by one actor or self-description, **[I]** inference, **[U]** not established, **[P]** commissioner-provided. All four delegated files use these; each states its own read depth per source (full / partial / abstract / snippet) and keeps its own access log.
+
+**Delegation record.** Four bounded researchers on disjoint files, each told to retrieve rather than recall, to state read depth, to hunt unflattering evidence, to return "not established" as a result, not to contact anyone, not to bypass any access control, and not to spawn further agents. They did not read each other's files. The Lead re-read eleven documents at source before relying on them; what was re-read, what changed, and what was **not** re-verified are listed in [`../note.md`](../note.md) §9. One duplication was found and counted once: two lines retrieved the same UK green social prescribing evaluation — one witness, not two.
+
+**The lines' own stated ceilings, carried into the note rather than smoothed over.**
+
+- Line A read the RIVM/Nivel/Pharos documents in full but most journal articles at **abstract level**; Nutbeam (2000) and Vidgen & Gallegos (2014) were not obtained.
+- Line B read **no full text of any empirical study** except Soga (partly) and the green-social-prescribing summary (partly), and searched **no Dutch-language sources** — so the Dutch evidence base in the note is thinner than the Dutch question deserves.
+- Line C read the Dutch primary documents in full; three claims in the note are **its retrieval only and were not re-verified by the Lead** (the GGzE vacancy behind the Kruidenkafé attribution, the three Positieve Gezondheid critiques, the municipal health-monitor figures) and are marked as such.
+- Line D read its Dutch programme documents in full and its journal literature at abstract level; it never obtained the national count of green-care providers (404) or the Dutch critique of Positieve Gezondheid it originally sought (401).
+
+**What is not here.** No stakeholder was contacted; no form submitted; no account used; no login, paywall, CAPTCHA or Cloudflare challenge bypassed; no participant's private words; no personal health information; no claim about any named individual's health or literacy. The note makes no diagnosis, gives no clinical or nutritional advice, and does not propose that anyone be recruited.
