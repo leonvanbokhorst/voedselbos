@@ -1,0 +1,34 @@
+# Sources — Voedselbos 2.0 and visibility (#17)
+
+All retrieved 26 November 2026. Public sources only; no stakeholder contact; no closed groups or social accounts accessed directly.
+
+| ID | Source | URL | Date of content | Used for |
+|---|---|---|---|---|
+| S1 | Newsletter "Nieuws van Natuurlijk Maartje" — "Voedselbos nu definitief gesloten" (Mailchimp campaign archive) | https://mailchi.mp/d2f778df0cee/nieuws-van-natuurlijk-maartje-8349044?e=838029ace3 | sent November 2026 (linked from the closure post); © 2026 Natuurlijk Maartje | the closest public statement of a successor: "Onze tijd op Landgoed De Wielewaal is voorbij", new location to be developed "als een kruidentuin", "Eindhoven heeft géén voedselbos meer", places still being explored, "Voedselbos Community – Workshop" 26-11-2026 17:00–19:00 at Student Base, High Tech Campus Eindhoven; the list is held by "Natuurlijk Maartje" |
+| S2 | Voedselbos Eindhoven — closure post "Voedselbos Eindhoven sluit permanent haar 'poort'" and site footer | https://voedselboseindhoven.nl/voedselbos-eindhoven-sluit-per-direct-haar-poort/ ; https://voedselboseindhoven.nl/ | post 28-07-2026 (signed Maartje Kreike); footer "Permanent gesloten sinds juli 2026" | closure wording, invitations to develop food forests elsewhere, no named successor, link to the November newsletter, social links (Instagram @natuurlijkmaartje, Facebook /voedselboseindhoven, LinkedIn /in/maartjekreike) |
+| S3 | eindhoven.nieuws.nl — "Eindhoven ontbreekt op landelijke Voedselbossendag na plotselinge sluiting voedselbos" | https://eindhoven.nieuws.nl/gemeente/eindhoven-ontbreekt-op-landelijke-voedselbossendag-na-plotselinge-sluiting-voedselbos | 25-08-2026 | **key source**: Elburglaan terrain is private property and that made the future vulnerable; closure moved from "after the summer" to immediate in early August; wethouder Rik Thijs spoke with residents end-June 2026 about the future of the food forest and Natuurlijk Maartje, "dat een groot deel van de activiteiten rond het bos verzorgde"; no new permanent location announced; Eindhoven absent from the national Open Voedselbossendag map, and so is the Henri Dunantpark food forest (Woensel-Noord, residents' initiative, biodiversity/encounter/education); Natuurlijk Maartje's agenda still advertised a wildplukwandeling on 06-09-2026 at the closed site; food forests are not portable after a site is lost |
+| S4 | Boer&Buur met Natuur — Open Voedselbossendag 2026 | https://boerenbuurmetnatuur.nl/openvoedselbossendag/ | event 05-09-2026; page retrieved 26-11-2026 | national visibility infrastructure: initiative of the Natuur en Milieufederaties, organised by Boer&Buur met Natuur with Voedsel uit het Bos; public participant map; "Meld je aan als voedselbos!" registration form |
+| S5 | Trefpunt Groen Eindhoven — Jaarverslag 2025 and Netwerk page | https://www.trefpuntgroeneindhoven.nl/uploads/Nieuws/jaarverslagen/TGE%20Jaarverslag%202025.pdf ; https://www.trefpuntgroeneindhoven.nl/netwerk | reporting year 2025; netwerk page accessed 26-11-2026 | existing city visibility/coordination infrastructure: 8 Groen Cafés in 2025 with Wasven, Bibliotheek Eindhoven, KNNV and IVN; Groenflits; netwerk map with type labels Partner / Bedrijf-instelling / Bewonerinitiatief (Stamtafel Biodiversiteit, Groen Bennekel, Struikroven, Voedselbosje bij De Splinter, Groendomein Wasven) |
+| S6 | (cross-reference) `research/network/note.md` and `research/network/sources.md` in this repository | local | 26-11-2026 | the closed food forest's absence from TGE's *achterban*; TGE as advocacy rather than maintenance hub; Wasven/Phood operating models |
+| S7 | Supportpunt — story "Food Forest Eindhoven" | https://www.supportpunt.nl/en/verhalen/voedselbos-eindhoven/ | undated; describes Oct 2023 website launch | Supportpunt as an existing story/visibility channel for Eindhoven foundations; 0.7 ha, ~30 volunteers, Friday 10:00–12:30, founders and 2019 takeover, company "Food Forest Experience", Sint Lucas design |
+| S8 | natuurlijkmaartje.nl — homepage | https://natuurlijkmaartje.nl/ | © 2025 | the individual practice as the forward-facing surface: coaching, masterclasses, "Voedselbos Experience" for companies/schools/organisations, address Bezuidenhoutseweg 13, 5651 GA Eindhoven, Instagram/Facebook/YouTube links |
+| S9 | Searches for "Voedselbos 2.0" (NL/EN), "Voedselbos Eindhoven nieuwe locatie", "Natuurlijk Maartje nieuwsbrief" | web search, 26-11-2026 | — | **negative result**: no public entity, page, registration or press item uses the name "Voedselbos 2.0"; the only forward-looking traces are S1–S3 |
+| S10 | Hipsy — organiser page "Natuurlijk Maartje" | https://hipsy.nl/natuurlijk-maartje | retrieved 26-11-2026; course runs 21-03-2026 → 20-03-2027 | the practice's paid offering and framing ("mensen met de natuur verbinden", masterclass/year training in Eindhoven); no collective, land or volunteer claim |
+| S11 | (cross-reference) Wasven and Phood Farm pages as documented in `research/network/sources.md` (S3–S5 there) | — | 2026 | that care participants and volunteers in care regimes are a distinct consent category for being shown |
+| S12 | Voedselbos Eindhoven — event page "Voedselbos Eindhoven op DDW 2024" | https://voedselboseindhoven.nl/events/voedselbos-eindhoven-op-ddw-2024/ | event 27-10-2024 | precedent that the initiative's visibility came largely through being *hosted* by others' platforms (Wasven's green market during DDW), not through its own channel |
+
+## Access notes and boundaries
+
+- The Mailchimp campaign (S1) was read from its public web archive; the subscriber list itself was not and cannot be accessed. The January–October campaign archive was not enumerated.
+- `natuurlijkmaartje.nl` was read as published; no booking, form submission or account was used.
+- Facebook page, Instagram and LinkedIn were **not** opened (login-walled or robots-restricted); conclusions about who holds the audience rest on the links published on the initiative's own site (S2), not on the accounts' contents.
+- The 26-11-2026 workshop at Student Base, High Tech Campus, is dated the same day as this research; no output from it exists in public sources yet.
+- The Open Voedselbossendag participant list was read only in its first alphabetical entries; Eindhoven's absence is taken from the reporting in S3 (25-08-2026), not from a complete scan of the map.
+- The Henri Dunantpark food forest was **not** researched beyond S3; its organisers, site and tenure are unknown here.
+
+## Negative-evidence searches (26-11-2026)
+
+- "Voedselbos 2.0" — no results referring to an Eindhoven initiative.
+- Any registration, foundation, subsidy or annual report for a successor — none found.
+- Any public announcement of a new location after 25-08-2026 — none found.
+- Any public statement by the volunteers as a group about the closure or a successor — none found.
