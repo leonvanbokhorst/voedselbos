@@ -1,6 +1,6 @@
-# Voedselbos Eindhoven — a research landscape 🫣
+# Voedselbos Eindhoven — a research landscape
 
-A buddy's guide to this workspace. It is a landscape of questions, not a work plan.
+A friendly guide to this workspace. It is a landscape of questions, not a work plan.
 
 ## What this is
 
