@@ -44,7 +44,7 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [Ecodorp Boekel](research/comparators/ecodorp-boekel.md) — the closest comparator, and what does not transfer.
 - [Decisions](research/decisions/note.md) — the four decision-critical uncertainties.
 - [Experiments](research/experiments/note.md) — three low-threshold proposals.
-- [Fragmentation of health promotion](research/fragmentation/note.md) — why the regional prevention architecture fragments, the three doors into it, and what the evidence says about shared impact without surrender; sources in [`sources.md`](research/fragmentation/sources.md).
+- [Fragmentation of health promotion](research/fragmentation/note.md) — what the regional prevention architecture documents, which mechanisms remain untested, the three doors into it, and what the evidence says about shared impact without surrender; revision record in [`revision-record.md`](research/fragmentation/revision-record.md); sources in [`sources.md`](research/fragmentation/sources.md).
 
 Each note has a source list next to it.
 
