@@ -47,6 +47,14 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [Climate adaptation and food forests](research/climate/note.md) — what the evidence supports for shade, water, access and shared care in a densifying city; the cool-place guidance corrected; sources in [`sources.md`](research/climate/sources.md).
 - [Experiments](research/experiments/note.md) — three low-threshold proposals.
 - [Health literacy and shared green practice](research/health/note.md) — what the Dutch “half of us” figure actually measures, why that instrument cannot assess a garden, which capability a shared green practice could plausibly build and under what conditions, and what the regional health movement is in 2026; revision record in [`revision-record.md`](research/health/revision-record.md); sources in [`sources.md`](research/health/sources.md).
+- [Complementarity and conflict](research/complementarity/note.md) — what the initiatives can safely share, what needs negotiation, and why the real competition is for secured position (#4).
+- [Reciprocity](research/reciprocity/note.md) — which exchanges are durable, which extract someone's unpaid evening, and who pays for the coordination (#5).
+- [Ecological limits](research/limits/note.md) — a habitat-by-activity risk matrix, the thresholds that are documented versus constructed, and the absence of any carrying-capacity standard (#6).
+- [Who the community is](research/community/note.md) — the representation map, who is structurally absent, and ten guardrails for researching with rather than on (#9).
+- [Health outcomes](research/health-outcomes/note.md) — a pathway map, an indicator table, and a claim ladder that stops a 0.7-ha garden at the rung it can reach (#10).
+- [AI and coordination](research/coordination-ai/note.md) — ten documented tasks, four worth borrowing a tool for, six worth doing nothing about (#12).
+- [Network history](research/history/note.md) — Proeftuin040 and the genealogy: the city has run this connective experiment once before (#14).
+- [**Synthesis of the seven**](research/synthesis/note.md) — what they establish together, how independent their agreement actually is, and where they contradict each other. **Read this before quoting any figure.**
 - [Fragmentation of health promotion](research/fragmentation/note.md) — what the regional prevention architecture documents, which mechanisms remain untested, the three doors into it, and what the evidence says about shared impact without surrender; revision record in [`revision-record.md`](research/fragmentation/revision-record.md); sources in [`sources.md`](research/fragmentation/sources.md).
 
 Each note has a source list next to it.
