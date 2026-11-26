@@ -64,7 +64,7 @@ Full edge list with sources and dates: [`research/network/note.md`](network/note
 | De Wielewaal | Municipal since 2022; Natuurmonumenten operates; 145 ha **[D]** | **Adjacency only** **[D]** |
 | Trefpunt Groen | Stichting, €232 k, protocol mandate, *achterban* **[D]** | **Never a member** — key negative **[D]** |
 | TAC | Stichting owning property and hospitality companies **[D]** | Garden ambition only: retained corner garden, hedged "levende tuin komt terug" **[C]**; nothing built or edible documented **[U]** |
-| Bij Albrecht | Restaurant, Woensel-Zuid **[D]** | **No green role found**; the commission's match is unresolved, not refuted **[U]** |
+| Bij Albrecht | Restaurant, Gagelstraat 6, city centre (Vonderweg area) **[D]** | **No green role found**; the commission's match is unresolved, not refuted **[U]** |
 
 **Negative findings that matter as much as the edges:** absent from Trefpunt's *achterban* and from the national map; no Voedselbos–Phood, –Victoriapark or –Dunantpark relation in the record; Victoriapark has no operator and a documented delay; the 13 organisations at the 2024 market produced no follow-up; "Wielewachters *meedenken*" is consultation, not partnership; shared funders are not shared interests (BPD funds Phood while Trefpunt resists development pressure; ASML funds the Wielewaal centre) **[D]**.
 

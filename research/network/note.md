@@ -14,7 +14,7 @@ They are not peers, and that shapes every possible link between them.
 | Victoriapark | municipal project (Emmasingelkwadrant) [S6] | a park being built, not an organisation; participation ran through a design process [S6] | municipal capital budget |
 | De Wielewaal | municipal land since 2022; Natuurmonumenten operates the centre [S7] | public estate, visitor centre opened 23-05-2026 | municipality, ASML, Regiodeal |
 | Trefpunt Groen Eindhoven (TGE) | stichting, 24th annual report 2025, €232,000 turnover, 2 coordinators + 1 communications staff + 5 board members [S8] | advocacy and formal consultation body with an *achterban* [S8] | protocol mandate; project income |
-| Bij Albrecht | restaurant, Oude Toren, Woensel-Zuid [S9] | a plant-based restaurant | — (no green role found) |
+| Bij Albrecht | restaurant, Gagelstraat 6, 5611 BH (city centre, Vonderweg area) [S9] | a plant-based restaurant | — (no green role found) |
 
 Only two nodes are membership-like bodies that could *share* care work (Voedselbos, Wasven); one is a referral-funded care enterprise (Phood); two are municipal projects (Victoriapark, Wielewaal); one is an advocacy intermediary (TGE).
 
@@ -43,7 +43,7 @@ Only two nodes are membership-like bodies that could *share* care work (Voedselb
 
 - No public trace that Voedselbos Eindhoven belonged to TGE's *achterban* or appears in TGE's 2025 report [S8], though both operate in the same city and green-market circuit [S10].
 - No trace of any Voedselbos–Phood or Voedselbos–Victoriapark relation.
-- No trace of a green-community role for Bij Albrecht; only restaurant listings [S9]. The brief's match is unresolved, not refuted.
+- No trace of a green-community role for Bij Albrecht; the official site gives Gagelstraat 6 in the city centre (Vonderweg area), not the Oude Toren/Woensel-Zuid listing [S9]. The brief's match is unresolved, not refuted.
 - **The closure is documented; the cause is a direct account, not a public document.** The commissioner reports the landowner sold the land **[P]**. The site gives no reason [S1]; the June 2026 report says only that it would stop at the current site and was seeking a new location [S11]. The buyer, date and terms are [U].
 - Victoriapark was behind schedule: a municipal letter of 24-02-2026 is titled "Vertraging aanleg Victoriapark", and 2026 council questions ask "Nóg een zomer zonder Victoriapark?" [S13][S14]. Titles only, not read.
 
