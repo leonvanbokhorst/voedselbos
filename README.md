@@ -8,11 +8,12 @@ This repository holds candidate research questions about how communities, green 
 
 The focus is **Voedselbos Eindhoven and its community** — including the July 2026 closure and the emerging **Voedselbos 2.0**, whose organising focus is **visibility of the movement**. De Wielewaal is context, not the centre.
 
-The main question is in [QUESTION.md](QUESTION.md). The candidate questions are GitHub issues. The first research passes are in [`research/`](research/).
+The main question is in [QUESTION.md](QUESTION.md). The candidate questions are GitHub issues. The first research passes are in [`research/`](research/), and the synthesis is [`research/BRIEF.md`](research/BRIEF.md) — the whole picture in one document.
 
 ## Start here
 
 - [QUESTION.md](QUESTION.md) — the main question, the three pillars, the focus note.
+- [The brief](research/BRIEF.md) — synthesis, network map, experiments and open questions in one document.
 - [Issues](https://github.com/leonvanbokhorst/voedselbos/issues) — one question per issue.
 - [Research notes](research/) — the first passes, with their sources.
 
