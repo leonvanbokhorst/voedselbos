@@ -1,0 +1,339 @@
+# How much connection can sensitive green space absorb before care becomes harm? (#6)
+
+**Issue:** [#6](https://github.com/leonvanbokhorst/voedselbos/issues/6) · **Status:** provisional overall. **No claim here is admitted**; admission is the reviewer's act under the repository's provenance practice. Desk research, 26 November 2026; all retrievals 2026-11-26 via signed `source_read` unless stated. No ecological field survey; no permit or legal advice; no stakeholder contact; no implementation.
+**Lens:** *thresholds that are documented versus thresholds that are constructed — and who constructs them, on what evidence, if they are constructed.*
+**Marks:** **[D]** documented in a retrieved source (the source says it); **[C]** claimed by one actor or self-description; **[I]** inference of this note; **[U]** not established in the sources searched; **[P]** commissioner-provided. A **[D]** on a number means the source states it — **not** that the number is measured. Where the source's own status is expert judgement rather than measurement, the note says so in words; the mark does not carry that distinction on its own.
+**Sources** are `E*` (this line's Eindhoven retrievals), `N*` (the delegated Dutch-regulatory line), `R*` (the delegated recreation-ecology line). All resolve in [`sources.md`](sources.md). Working material in [`working/`](working/README.md) — **not evidence**; where a working file and this note disagree, this note governs.
+**Exclusions honoured:** no field survey, no permit determination, no legal advice, no assumption that access is intrinsically good or harmful.
+
+---
+
+## 1. Answer in short
+
+1. **Eindhoven has a documented, area-specific *sensitivity model* for visitor pressure and no documented *threshold* anywhere.** In 2023 the municipality commissioned a design for monitoring "druk en dynamiek" in Genneper Parken that names ecological impact as one of three use cases, states the impact model in the standard multiplicative form — "impact = gevoeligheid * effect * hoeveelheid" — and tabulates which species groups in which parts of that park are disturbed by which uses [D, `E1`]. The same report defines no magnitude: "Hoe de grootte van de ecologische impact bepaald moet worden is iets dat uitgewerkt moet worden in een implementatietraject" [D, `E1`]. So the honest local starting point is a **named sensitivity structure with an empty scale**, not a capacity.
+2. **No carrying-capacity or visitor-density standard exists in any retrieved Eindhoven or provincial instrument**, and the search surface is stated in §4.4 [D for the absence, over that surface]. The only *quantified* capacity in the retrieved local record is a **parking-occupancy norm (90%)** used to adjudicate the one project in the file with a stated visitor stream [D, `E3`]. Area norms exist (8 m² new green per dwelling; 10% of BVO; €236 per unrealised m²; 75 m² public green per dwelling as the "landelijke norm" that defines a *groenarme buurt*) — and these ration **green against building programme**, not **visitors against ecology** [D, `N7`,`N8`,`E7`]. Conflating the two would be the single easiest error to make with this material.
+3. **What actually constrains activity in Eindhoven green space is the biodiversity agenda, working through four instruments, and it already bites on the estate the repository treats as pillar 1.** The 2025 leash decision designates eight areas where dogs must be on a lead "elke dag van de week, gedurende de gehele dag", one of which is **"Landgoed de Wielewaal"**, on the stated ground "Om de biodiversiteit in een aantal gebieden te beschermen dit wel noodzakelijk wordt geacht" [D, `E5`]. APV art. 2:45 makes presence in municipal parks, plantings, green strips and lawns — or off the paths in them — **prohibited without a college exemption** [D, `N5`, verified by me]. Tree work on municipal trees is prohibited except as commissioned or permitted [D, `E8`]. So a community network does not need to invent a "not here, not like this" basis: the municipality already holds several, unevenly visible and unevenly enforced.
+4. **The one documented instance in which Eindhoven decided access against protection went to existing use, not to ecology.** Trefpunt Groen advised a leash duty in the Philips de Jongpark "gezien de ligging in NNB"; B&W declined because the park "wordt momenteel echter al veel gebruikt door mensen die daar met hun hond wandelen", citing "een balans" and "het huidige gebruik" [D, `E6`]. That is the access-versus-protection trade-off being made in the record — and it is a use-based decision with an ecological argument on the losing side. Anyone proposing that a small site "absorbs" more access should expect the same test in reverse.
+5. **The pressures the city's *own* monitoring names as dominant are hydrological and nutrient, not recreational.** The 2022 annual-accounts indicator states: "Bovenregionale trends (verdroging en vermesting) zijn echter leidend gebleken, met name droogtegevoelige soortgroepen zijn achteruit gegaan" [D, `E12`]. Around the Natura 2000 area that partly lies inside the municipality, the regulatory pressure that actually triggers assessment is **nitrogen**, at calculated margins of 0,02 mol N/ha/jaar [D, `N12`,`N13`]. Recreation appears in those documents as a *concept* in the province's NNB instructions and in the city's biodiversity plan ("sturing/zonering van recreatiestromen (inclusief huisdieren zoals honden)"), not as a quantified pressure [D, `N3`,`N11`]. **"Not the dominant pressure" is not "no pressure"** — see §8.
+6. **The distributional tension is real, but the retrieved geography does not support its most common form.** The nine *groenarme* buurten the municipality is actively greening are inner-ring and Oud-Strijp/Tongelre-west (Bloemenplein, Gildebuurt, Hemelrijken, Joriskwartier, Lakerlopen, Limbeek-Noord, Limbeek-Zuid, Rochusbuurt, Tivoli) [D, `E7`] — the same fabric where the municipal Soortenmanagementplan survey is looking for **building-dwelling** protected species (huismus, gierzwaluw, vleermuis) [D, `E11`]. The ground habitats the city's own opportunity map calls valuable — beekdalen, heide, vennen, oude bomen — sit at the green periphery [D, `E9`]. So the tension is better stated as: **the people with least green live where the sensitive *habitat* is thinnest and the sensitive *buildings* are thickest; the sensitive ground is where the residents are already green-rich.** That changes what "absorb access" would even mean. **[I]**, from [D] geography.
+7. **There is a documented high baseline of contact already.** 92% of Eindhoven residents report visiting at least one of six major parks in the past year (inwonersenquête, target ≥90%) [D, `E12`]. The marginal question for pillar 3 is therefore **not** whether people reach green at all, but *which* green, *how*, and at whose cost — a distribution and type question, not a volume-of-zero question.
+8. **A carrying-capacity threshold for any named Eindhoven site is [U] and would need a survey plus a governance decision.** Nothing in the retrieved record — not the APV, not the green beleidsregel, not the tree ordinance, not the provincial NNB or stiltegebied articles, not the biodiversity plan, not the Genneper Parken monitoring design — supplies a visitor number at which a site is "full" [D for absence over that surface]. The city's own 2023 design says it would *build* the instrument to detect "te hoge bezoekersdichtheden" and never says what "too high" is [D, `E1`].
+
+**So the answer to "where does pillar 3 start to undermine the ecological health it is meant to serve" is: at the point where a site is opened, routed, event-programmed or dog-used in ways its *manager* has not designed for — and in Eindhoven that point is currently defined by instruments, habits and existing use, not by any ecological number.** The defensible move for the network is to borrow the manager's existing sensitivity structure (§3), refuse to invent a threshold (§4), and make each site's terms explicit before inviting anyone (§7).
+
+---
+
+## 2. Status of propositions
+
+| # | Proposition | Status | Basis | What would change it |
+|---|---|---|---|---|
+| P1 | Eindhoven's record contains an area-specific sensitivity model for visitor pressure, with species groups, locations, disturbance factors and disturbing uses | **Established on retrieved evidence** (as the content of a consultant's 2023 design) | `E1` tables 6.1–6.3, p.11, p.17–19 | A later municipal version superseding it |
+| P2 | No magnitude, threshold or visitor-density value is attached to that model | **Established on retrieved evidence** (explicit in the document) | `E1` p.17 ("moet uitgewerkt worden in een implementatietraject"), p.26 (planned warning, no value) | A published impact-class scheme, damage model or density norm |
+| P3 | No municipal or provincial carrying-capacity standard was found in any retrieved instrument | **Established for the search surface in §4.4**; not a universal negative | `N5`,`N7`,`N8`,`N11`,`N3`,`N2`,`N14`,`E1`,`E12` | One document with a number in it |
+| P4 | The only quantified capacity instrument in the retrieved local record is a parking-occupancy norm (90%) | **Established on retrieved evidence** | `E3` §2.3, p.7–8 | — |
+| P5 | Municipal "green-poor" definition is an area norm (<75 m² public green per dwelling), not a visitor norm | **Established on retrieved evidence** | `E7` (dataset description; `N8` toelichting calls it "de landelijke norm van 75 m2 per woning") | — |
+| P6 | Eight Eindhoven areas, including Landgoed de Wielewaal, carry an all-day year-round leash duty with an explicit biodiversity ground | **Established on retrieved evidence**, verified in the consolidated decision | `E5` (CVDR743197), `E4` (principle decision), `E6` (adviesnota) | A later aanwijzingsbesluit |
+| P7 | APV art. 2:45 prohibits off-path presence in municipal parks and green without a college exemption | **Established on retrieved evidence** (text); enforcement practice **[U]** | `N5` art. 2:45, **verified verbatim by me** | Case law, a nadere regel, or published enforcement policy |
+| P8 | The municipal Soortenmanagementplan is a *building-works* instrument, not an access or carrying-capacity instrument, and is not yet in force | **Established on retrieved evidence** | `E11` (27-03-2026 survey notice), `N1` (13-05-2025 collegebrief: delivery medio juli 2027; third-party use for "isoleren en te (ver)bouwen"), **verified by me** | The SMP itself, or a provincial area permit |
+| P9 | Natura 2000 lies partly inside the municipality of Eindhoven | **Established on retrieved evidence** | `N12` (Stcrt. 2026, 2565), **verified by me** | — |
+| P10 | No retrieved Natura 2000 document states recreation or visitor pressure as a *knelpunt* for the site that touches Eindhoven | **Not established in the sources searched**; the beheerplan is **unavailable**, not absent | `N12` (grep of 200,000 of 232,315 chars: no "recreatie", no "verstor"); `N` access log | The 2021 beheerplan (see §11) |
+| P11 | The dominant pressures named in the city's own biodiversity indicator are drought/desiccation and eutrophication, not visitor pressure | **Established on retrieved evidence** (as the indicator's statement) | `E12` | A municipal statement identifying recreation as a leading pressure |
+| P12 | The only documented access-versus-protection decision in the record went against the ecological advice, on existing-use grounds | **Established on retrieved evidence** | `E6` ("Advies van TGE … gezien de ligging in NNB … maar dit park wordt … al veel gebruikt") | A later reversal |
+| P13 | 92% of residents report visiting ≥1 of six major parks in the past year | **Established on retrieved evidence** as a survey return, 2022, self-report, "% minstens 1 van de parken" | `E12` | A newer survey wave |
+| P14 | The issue brief's "17 named neighbourhoods" is a count of distinct `buurt` strings, not the programme's area; the municipality names nine | **Established on retrieved evidence** (group-by + dataset text) | `E7`, sha256 `1b87c10d…` | A corrected brief |
+| P15 | The "green totals" problem is structural: the public-green layer's own territory includes Oirschot, and ~1,278 ha of it carries no category at all | **Established on retrieved evidence** | `E10` metadata (`territory`, `categorie` aggregation) | A municipality-only, category-complete layer |
+| P16 | A food forest's or community garden's own footprint in the retrieved Eindhoven green register is not identifiable, so its site-specific sensitivity cannot be read off public data | **Not established** | `E10` categories; no edible category | A site-level ecological assessment |
+| P17 | Generic recreation-ecology thresholds (trampling, compaction, disturbance distance, timing) transfer to Eindhoven sites on the strength of their own study design | **Partly** — see §3.3 and §4; transfer is an **[I]**, never a [D] | `R*`; `E1` (local expert judgement) | A paired local measurement |
+| P18 | Bringing people closer (pillar 3) is intrinsically harmful or intrinsically good for ecological health | **Not supported either way** — the retrieved record documents both protection measures that restrict access and access measures that serve biodiversity (e.g. greening programmes) | `E5`,`E7`,`E9`,`E12` | — |
+
+---
+
+## 3. Risk matrix by habitat/place type × activity
+
+Two matrices are given and they must not be merged. **§3.2** is the city's own commissioned matrix for one park — the closest thing to an Eindhoven-specific statement. **§3.3** is the cross-cutting matrix, in which each cell separates what the recreation-ecology literature documents generically from what is locally specific, and marks the second **[U]** unless a source establishes it.
+
+### 3.1 The seven place types the retrieved record actually distinguishes
+
+Derived from the municipal opportunity map's area descriptions (`E9`) and the management register (`E10`). These are the types a distributed network would actually be inviting people into; they are not interchangeable.
+
+| # | Place type | Where, per the city's own description | Documented character |
+|---|---|---|---|
+| T1 | **Beekdal / stream valley** (Dommel, Tongelreep, Kleine Dommel, Groote Beek) | Tongelre, Woensel-Noord, Stratum, Genneper Parken | "De groengebieden langs de beken behoren tot de meest waardevolle natuurgebieden in Eindhoven"; "plaatselijk zeer nat" [D, `E9`]. Genneper Parken's beekdalen are where the city's own model puts schrale vegetatie, vissen, amfibieën and insects at risk from trampling and eutrophication [D, `E1`] |
+| T2 | **Heide and fen remnants** | Stratumse Heide with "3 bijzondere vennen", Gijzenrooise Zegge | "van oorsprong … vrij droog … heide en bossen … met kleine natte stukken"; the stated challenge is desiccation "door drainage, grondwaterpompen of andere vormen van ontwatering" [D, `E9`] |
+| T3 | **Older estate / monumental trees** | Philips de Jongh Park "oude eiken lanen"; Stadswandelpark "dikke en bijzondere bomen"; De Wielewaal | "Behoud oude bomen en bestaande mooie graslanden en bermen. Deze hebben een lange ontwikkelingstijd en zijn niet zomaar vervangbaar" [D, `E9`]. Soil compaction under old trees is a stated constraint in the tree ordinance's own framing ("bovengrondse beschadiging, maar ook ondergrondse beschadiging") [D, `E8`] |
+| T4 | **Large city park** (Genneper Parken, Henri Dunantpark, Karpendonkse Plas, Philips van Lenneppark) | Woensel-Noord, Stratum/Gestel | Mixed use is documented and intended: picnics, sport, water, dogs, events, clubsport, horeca, through-traffic [D, `E1` table 6.1] |
+| T5 | **Neighbourhood green in green-poor buurten** | the nine buurten in `E7`; plus every street planting | Small, paved-adjacent, actively being de-paved and replanted; the constraint is soil, water and maintenance, not wilderness [D, `E7`,`E12`] |
+| T6 | **Small community sites** (food forest, buurttuin, heemtuin, schoolyard) | Wasven, Dunantpark food forest, Doorntuin, Vergeten Tuin | 0.7 ha lost, 100 m²–1,800 m² examples, tenures derivative or absent [D, sibling notes `network`, `practices`]. **No ecological assessment of any of them was retrieved** [U] |
+| T7 | **Buildings as habitat** | municipality-wide; SMP survey buurten | huismus, gierzwaluw, vleermuizen "in daken of spouwemuren"; the SMP exists to make insulation easier [D, `E11`,`N1`] |
+
+### 3.2 The matrix Eindhoven itself commissioned (Genneper Parken, 2023)
+
+**[D]** as the content of `E1`; the report describes its own zone-labelling as "vuistregels gebaseerd op RHDHV-expertkennis" [D, `E1` p.13]. **This is professional judgement, not measurement**, and the note treats it as such. It is nonetheless the most site-specific ecological sensitivity statement about Eindhoven in the retrieved record.
+
+| Species group | Locations named in the park | Disturbance factors named | Disturbing use types named |
+|---|---|---|---|
+| Flora: schrale tot matig voedselrijke vegetatie | "In en rond akkers, beekdalen en beekbossen (naast Dommel en Tongelreep)" | Eutrophication (excreta, food waste); trampling | Walking/recreation (dogs), events; walking, recreation, individual sport |
+| Fish | Tongelreep, Dommel, Trompetterloop | Disturbance | Water recreation (canoeing, paddleboarding) |
+| Amphibians | Pools: Elzensingelpoel, "nierpoel" near the Heemtuin | Eutrophication | Walking/recreation (dogs), events |
+| Birds | Small-scale landscape, the stream valleys, deciduous woods, monumental buildings | Noise and movement; disturbance; **lighting** | Walking/recreation/water sport; walking (dogs); general use, through traffic |
+| Bats | "Heel het park" | Disturbance | Walking/recreation (dogs) |
+| Other mammals (hedgehog, rabbit, fox, squirrel) | "Heel het park" | Noise and movement; **lighting** | Walking/recreation/water sport; general use, through traffic |
+| Insects, notably butterflies | "Heel het park, met name beekdalen" | Varied environmental factors incl. eutrophication; **lighting** | Walking/recreation (dogs); general use, through traffic |
+
+Counterpart table, by use: social recreation → noise, eutrophication; individual sport → disturbance, noise and movement; water recreation → disturbance; **walking → disturbance, noise, damage, eutrophication, explicitly including "loslopende honden"**; through traffic → noise, movement, lighting; horeca → noise, movement, lighting; sport events/club matches → noise, lighting; other sport → "–"; cultural events and festivals → noise, eutrophication, disturbance; business activity → noise, eutrophication, disturbance [D, `E1` table 6.3].
+
+Three things follow and one does not.
+
+- **Follows:** in this city's own model the *ubiquitous* disturbing use is ordinary walking with a dog, not the exceptional event; and **lighting** is the only disturbance factor attached to bats, other mammals, birds and insects alike [D]. A network that "activates" a site at dusk, strings lights for a harvest evening, or adds a car park with floodlights is touching the one factor the local model assigns to four of seven species groups.
+- **Follows:** the model's only species-group-specific *spatial* claim is that the stream valleys and beek woods concentrate sensitivity — the same areas the opportunity map calls Eindhoven's most valuable nature [D, `E1`,`E9`].
+- **Follows:** "activation" is not in the vocabulary of the model at all. Its use types are picnics, jogging, canoeing, dog walking, through traffic, horeca, club sport, festivals. A food-forest workshop, a herb walk, a school visit, a photo session and a volunteer work morning are **not classified**, so their impact cannot be read off this instrument [I].
+- **Does not follow:** that any of this has a magnitude. The report explicitly leaves it: "impact klassen (geen / weinig / enigszins / veel / ernstig), of vormen van gewogen scores, of een schade model" are listed as *options for a later implementation* [D, `E1` p.17].
+
+### 3.3 Cross-cutting matrix: documented generic effect vs Eindhoven-specific status
+
+Legend for each cell: **[R]** what the recreation-ecology literature documents generically (with the caveat that a generic study is not a local measurement); **[E]** what is Eindhoven-specific; **[U]** where neither exists. The generic column is the delegated line's; every Eindhoven cell without a citation is **[U]** by default and says so.
+
+| Activity ↓ / place type → | T1 Beekdal | T2 Heide/fen | T3 Old trees/estate | T4 City park | T5 Neighbourhood green | T6 Small community site | T7 Buildings |
+|---|---|---|---|---|---|---|---|
+| **Walking on paths** | [R] generic low per visit, cumulative on wet soils; **[E]** named disturbing use for flora, birds, bats, mammals, insects (dogs) `E1` | [R] heath tolerates light foot traffic, recovery slow; **[U]** local | [R] compaction in root zone; **[E]** "ondergrondse beschadiging" named in tree regime `E8` | [E] intended use `E1`,`E12` | [E] intended use; 92% park visiting `E12` | [U] | — |
+| **Off-path walking / desire lines** | [R] the main vegetation-damage pathway; **[E]** off-path presence prohibited without exemption, APV 2:45 `N5` | [E] as T1 `N5`; heide challenge is desiccation not trampling `E9` | [E] APV 2:45 `N5`; old trees "niet zomaar vervangbaar" `E9` | [E] APV 2:45 `N5` | [U] | [U] | — |
+| **Soil compaction** | [R] bulk-density thresholds, infiltration loss; **[U]** local | [U] | [R] root-zone compaction is the classic old-tree injury; **[U]** local measurement | [U] | [E] *de-paving* is the city's own intervention, i.e. the problem is the inverse `E7` | [E] "na 30 centimeter een betonnen laag onder de grond" (Block Acker) `practices` | — |
+| **Dogs, on lead** | [R] minimal direct effect; **[E]** walking with dog listed as disturbing use `E1` | [E] all-day leash duty in 8 areas `E5` | [E] Wielewaal included `E5` | [E] leash required inside built-up area, APV 2:57(1)(b) `N5`; 64 off-lead areas inside the ring `E4` | [E] 61 off-lead areas (10.4 ha) in the register `E10` | [U] | — |
+| **Dogs, off lead** | [R] disturbance + nutrient enrichment, additive; **[E]** "opjagen en verstoren … verhoogde stress"; "vertrappen planten"; "uitwerpselen … schadelijk voor de bodem" `E4` | [E] the stated reason for the 2025 designations — "dassen, bevers, reeën en weidevogels" `E4`; weidevogelterrein Gijzenrooi `E5` | [E] Wielewaal `E5` | [E] enforcement during "kwetsbare perioden", undefined `E4` | [E] | [U] | — |
+| **Foraging / harvesting** | [U] no APV article on picking or harvesting found `N5`; **[I]** APV 2:45 still governs being off-path | [U] | [U] the 2021 tree ordinance exempted "periodiek oogsten van hakhout"; that wording is absent from the 2024/2026 texts `N8`,`N10` | [U] | [E] food is the explicit purpose of allotments (15.7 ha in the register) and food forests `E10`,`practices` | [U] — **no local evidence of harvest impact on any site** | — |
+| **Events** | [R] compaction and vegetation loss, recovery times; **[E]** named disturbing use `E1` | [U] | [U] | [E] burgemeester's permit; refusal ground includes mismatch with the location's "locatieprofiel" `N5` art. 2:25(3)(d); **no locatieprofiel retrieved** `N12` | [U] | [U] | — |
+| **Light** | [E] named for birds, mammals, insects, bats `E1` | [U] | [U] | [R] ALAN effects documented; **[E]** "strategischer verlichting van de openbare ruimte" as a remedy `N3` | [U] | [U] | [E] bats in roofs; SMP survey includes them `E11` |
+| **Noise** | [E] named for birds, fish, mammals `E1` | [U] | [U] | [R] documented effects on bird communication; **[E]** APV 4:6 nuisance prohibition; stiltegebied 50 dB(A) LAeq 24 h at the boundary `N5`,`N11` | [U] | [U] | — |
+| **Path creation / new infrastructure** | [U] | [U] | [E] Wielewaal: "uitbreiding van het wandelnetwerk … vierde entree … semi-verhard" `E13` — i.e. path-building is a live municipal programme, **without a published ecological rationale** | [E] "missing-links in het wandelpadennetwerk" as a stated measure `E1` | [E] de-paving and tree-growth-space expansion `E7` | [U] | — |
+| **Drone / photo visits** | [U] | [U] | [U] | [U] | [U] | [U] | [U] |
+| **"Activation" (workshops, school visits, volunteer mornings, harvest events)** | [U] not a category in the local model `E1` | [U] | [U] | [U] | [E] documented as everyday, unpurposed use (children, yoga, laptops, sunbathers) `practices` | [U] | [U] |
+
+**Reading the empty cells honestly.** The matrix's most important feature is how many cells are **[U]**. That is not a defect of the search: it reflects that no one has measured visitor impact on any named Eindhoven green space in the retrieved public record. The 2023 design says the city *has* visitor data — "waar de bezoekers van Genneper Parken vandaan komen, hoe lang men in het gebied aanwezig is geweest en waar relatief veel en weinig mensen komen" — from a 2019–2020 dashboard [D, `E1` p.5], but that data is a supplier/Argaleo product, not public, and it measures *use*, not *impact* [D, `E1` Appendix I].
+
+---
+
+## 4. Thresholds: documented, constructed, and constructed-then-forgotten
+
+### 4.1 What is actually documented, with its type
+
+| Threshold / number | Value, unit, denominator | Who states it | On what evidence | Status |
+|---|---|---|---|---|
+| Leash duty, 8 areas | all day, every day, 8 designated areas | B&W Eindhoven, in force 05-08-2025 | biodiversity protection; species named (das, bever, ree, weidevogels) | **Documented rule**, no ecological number behind it `E5` |
+| Off-lead areas | 64 inside the ring + 8 outside | B&W, 03-12-2024 | existing use and "balans" | **Documented count**, not a capacity `E4` |
+| Off-path presence | prohibited without exemption | APV art. 2:45 | openbare-orde/milieu heading | **Documented rule**, no spatial definition of "path" boundary in the article `N5` |
+| Parking occupancy | 90% maximum in the surrounding area; measured baseline 69% (241/374), design moment 148 spaces | municipality, 2022 zoning file | parking survey + parkeernormen | **Documented norm** — the only quantified capacity instrument retrieved `E3` |
+| New green per dwelling | 8 m² per added dwelling | Beleidsregel groen en water 2026 art. 4(5) | municipal policy | **Documented norm**, area not visitors `N7` |
+| New green, non-residential | 10% of BVO | ibid. art. 4(6) | municipal policy | as above `N7` |
+| Green compensation | €236 per unrealised m² (2026) | ibid. art. 7(3) | municipal policy | as above `N7` |
+| "Groenarme buurt" | <75 m² public green **per dwelling** | dataset description `E7`; "landelijke norm van 75 m2 per woning" `N8` | national norm, municipal application | **Documented definition** with numerator and denominator — the best-specified green number in the record `E7`,`N8` |
+| Tree protection | ≥45 cm girth at 130 cm; >30% crown/root pruning; compensation trees at any size | Verordening bomen 2026 art. 2(1) | municipal ordinance | **Documented thresholds**, about trees not visitors `E8` |
+| Protected tree-zone width | crown projection + 1,5 m ("kwetsbare boomzone") | ibid. art. 1 | Norminstituut Bomen poster | **Documented threshold**, the most spatially precise protection number in the record `E8` |
+| Smoking/fire near heath and wood | within 30 m, all year | APV art. 2:18(1) | municipal ordinance | **Documented distance** `N5` |
+| Event noise at stiltegebied boundary | 50 dB(A) LAeq, 24 h, at 1,5 m height | Omgevingsverordening NB art. 5.29(b) | provincial instruction | **Documented threshold**, plan-level; which Eindhoven stiltegebieden exist **[U]** `N11` |
+| Nitrogen at Natura 2000 | ≤0,02 mol N/ha/jaar calculated increase | voortoets, 2026 | AERIUS-type calculation | **Documented**, project-level `N13` |
+| Park visiting | 92% of residents ≥1 of 6 parks/year | inwonersenquête, 2022 | self-report survey | **Documented survey return**, not a capacity `E12` |
+| Park satisfaction | 71% satisfied with layout and with maintenance (target >75%) | ibid. | self-report | as above `E12` |
+| Plant vitality | 75% in 2026 against a 90% target | draft climate programme | municipal measurement | **Documented** (reused from `../../climate/note.md` `E6` there) |
+| "Kwetsbare perioden" for dog enforcement | — | B&W 2024 | none stated | **Named, never defined** `E4` |
+| Social carrying capacity | — | — | — | **None found** `N14` |
+
+### 4.2 What is constructed, and by whom
+
+Four constructions are visible in the retrieved record, in ascending order of how much they hide.
+
+1. **The consultant's zone labels.** The Genneper Parken design assigns "gebruikslabels" to zones by scoring formulas ("wandel gebied = afstand toegang + bevolkingsdichtheid – drukte wegen + type pad==voetpad + flora +/- zichtbaarheid – geblokkeerde zones") and states plainly: "In dit advies wordt ter illustratie hiervoor gebruik gemaakt van vuistregels gebaseerd op RHDHV-expertkennis" [D, `E1` p.13 and Appendix II]. **Who:** a consultancy, for the municipality. **On what:** professional judgement, offered as an illustration pending "expliciete modellering of literatuurstudie" [D].
+2. **The impact formula without a scale.** "impact = gevoeligheid * effect * hoeveelheid" [D, `E1` p.11] is the standard recreation-ecology decomposition and is defensible as a *structure*; but with no units for any of the three factors it is a placeholder. The report proposes three incompatible ways to fill it ("impact klassen … gewogen scores … schade model") without choosing [D, `E1` p.17]. **Who would choose:** the municipality, in an implementation project that the retrieved record does not show happening [U].
+3. **The "te hoge bezoekersdichtheden" warning.** The design promises a future dashboard output — "Knelpunten waarschuwing : aangeven dat er op een bepaalde locatie door bepaald gebruik te hoge bezoekersdichtheden ontstaan" [D, `E1` p.26] — with no value anywhere in the report [D for absence within the document]. **Who:** no one yet. A threshold that is named as a future output and never specified is the purest form of a constructed threshold: the *word* exists, the number does not.
+4. **The 90% parking norm, which is real and therefore instructive.** This is the one place in the local record where a capacity was quantified, tested and adjudicated — for cars. The norm's own justification is stated: "Dit percentage van 90% houdt rekening met de gewenste leegstand van parkeerplaatsen (10%), zodat onnodig zoekgedrag wordt voorkomen" [D, `E3` p.8]. **Who:** municipal parking policy. **On what:** an explicit service-level rationale. The contrast with ecology is the finding: where the city wanted a capacity number it produced one, with a rationale; where it wanted an ecological one it produced a monitoring design.
+
+**An honest statement about the generic literature's thresholds** (detailed in §4.3 and [`sources.md`](sources.md)): many of the visitor-density, disturbance-distance and recovery numbers that circulate are **site-specific measurements from other places, or expert rules of thumb, or management conventions (Limits of Acceptable Change, Recreation Opportunity Spectrum) rather than ecological constants**. Where this note reports a generic number it labels its study design. **No generic threshold is a threshold for any Eindhoven site.**
+
+### 4.3 Generic thresholds: what the literature fixes and what it leaves open
+
+<!--THRESHOLDS-->
+
+### 4.4 The negative result, with its search surface
+
+No carrying-capacity or visitor-density standard was found in: the consolidated APV (`N5`, full text, including full-text searches for *pluk*, *oogst*, *gewassen*, *drone*, *onbemand*); the Beleidsregel groen en water 2026 (`N7`); the Verordening bomen 2021/2024/2026 (`N10`,`N9`,`E8`); the Omgevingsverordening Noord-Brabant chapters on NNB and stiltegebied (`N11`); the Plan van aanpak biodiversiteit (`N3`); the natuurpuntenkaart page (`N2`); the Omgevingsvisie raadsvoorstel (`N15`); the Genneper Parken monitoring design (`E1`); the municipal biodiversity and green indicators (`E12`); the green-poor-neighbourhood dataset (`E7`); the SMP collegebrief and survey notice (`N1`,`E11`); and the leash decisions (`E4`,`E5`,`E6`). Web searches for a municipal *nota recreatie* or for published visitor numbers for the Wielewaal returned nothing usable: the Wielewaal council letter of 10 March 2026 says only "wordt het landgoed goed bezocht" [D, `E13`].
+
+This is a negative result over a **stated surface**, not a universal negative. The Genneper Parken ecology note it references — "Notitie Borging kwaliteit ecologie Genneper Parken", kenmerk BG7775-MI-ME-230607-1503, 7 juni 2023 — is the likeliest place where a local judgement was written down, and it was not retrieved [U, `E1` p.11].
+
+---
+
+## 5. Regulatory anchors, only as far as they constrain activity
+
+Kept to what decides what a network may or may not do. **This is not legal advice**, and no assessment is made of whether any specific initiative would be permitted.
+
+**5.1 The default is not open access.** APV Eindhoven art. 2:45 (verified verbatim by me): "Het is verboden zonder ontheffing van het college zich te bevinden in of op bij de gemeente in onderhoud zijnde parken, wandelplaatsen, plantsoenen, groenstroken, grasperken of buiten de daarin gelegen wegen of paden" [D, `N5`]. Enforcement practice against ordinary park use is **[U]** and this article is unlikely to be aimed at a family on a lawn **[I]** — but it is the written baseline, and it means the municipality already holds an instrument it can use to close a place without new policy [I]. Any proposal that depends on *unrestricted* presence should know this.
+
+**5.2 Dogs are the most regulated activity, and the regulation is ecological.** APV art. 2:57(1)(b) requires a lead on public places inside the built-up area; (c) allows B&W to designate areas outside it [D, `N5`]. The 2025 designation does so for eight areas, all day, every day, on the ground "Om de biodiversiteit in een aantal gebieden te beschermen" [D, `E5`]. The advice note supplies the municipal doctrine in one sentence: the areas designated for nature and landscape in the **Groenbeleidsplan 2017** "kennen een hoge mate van biodiversiteit. Behoud en ontwikkeling van natuur en landschap zijn in deze gebieden de primaire functies, **gecombineerd met extensief recreatief medegebruik**. Er is ruimte om te recreëren en natuur en landschap te beleven, voor zover daar geen verstorende inrichtingsmaatregelen voor nodig zijn" [D, `E6`]. **That is the closest thing Eindhoven has to an access-versus-protection rule, and it is qualitative**: "extensief" is not defined, and "verstorende inrichtingsmaatregelen" is not specified.
+
+**5.3 Events run through the burgemeester, and the ecological refusal ground needs a document that was not retrieved.** APV art. 2:25(1) requires a permit; art. 2:25(3)(d) allows refusal where the event "zich niet verdraagt met het karakter of de bestemming van de gevraagde locatie of het evenement niet voldoet aan het locatieprofiel dat het college voor die locatie heeft vastgesteld" [D, `N5`]. **No locatieprofiel was retrieved** [U]. So a network's event in a park is legally conditional on a document that is not in the public record searched — a gap that matters more than any threshold in §4.
+
+**5.4 Trees are heavily protected and volunteer tree work is prohibited by default.** Verordening bomen 2026: municipal trees may not be damaged, and may not be pruned "met uitzondering van door de gemeente opgedragen of toegestane boomverzorgende taken" [D, `E8` art. 10(1)(b)(c)]; a permit is needed for felling ≥45 cm girth, for pruning more than 30% of crown volume or root system, and for any intervention on compensation-planted trees regardless of size [D, `E8` art. 2(1)]. A "snoeidag" on municipal ground is therefore not a neutral act [I].
+
+**5.5 NNB is an instruction to the plan, not a rule addressed to visitors.** Omgevingsverordening Noord-Brabant art. 5.30 requires the omgevingsplan for NNB to protect ecological values "en houdt daarbij ook rekening met andere aanwezige waarden en kenmerken, zoals rust, stilte"; art. 5.33 permits small structures for nature or "recreatief medegebruik" only if that "geen aantasting geeft van de ecologische waarden en kenmerken" [D, `N11`]. De Wielewaal's nature protection is stated to rest on NNB plus the green plan plus the green wedges [D, `E13`]. **What NNB does *not* do is tell a visitor anything** [I].
+
+**5.6 Natura 2000 touches the municipality, and the live pressure is nitrogen.** The aanwijzingsbesluit states the area "behoort tot het grondgebied van de gemeenten Bergeijk, Cranendonck, Eersel, **Eindhoven**, Geldrop-Mierlo, Heeze-Leende, Valkenswaard, Veldhoven en Waalre" [D, `N12`, verified by me]. A 2026 voortoets for a city-centre project puts Leenderbos at 4,7 km (1,6 km including mobility hubs) and concludes that only nitrogen effects are conceivable, at ≤0,02 mol N/ha/jaar [D, `N13`]. **Recreation is not the pressure these documents regulate** [D for the retrieved documents; the beheerplan's recreation passage is unavailable, §11].
+
+**5.7 The SMP is not an access instrument, and it is not yet in force.** The collegebrief of 13 May 2025: "Eindhoven is bezig met het opstellen van een SMP. De planning is dat medio juli 2027 het SMP wordt opgeleverd en vergunning bij provincie Noord-Brabant kan worden aangevraagd"; the permit "kan, naast gemeente, ook door derden (particulieren en organisaties) worden gebruikt om zonder ecologisch onderzoek en zonder vergunning te isoleren en te (ver)bouwen"; and the plan "is nog in ontwikkeling en de werkzaamheden die er onder gaan vallen zijn nog niet volledig ingekaderd" [D, `N1`, verified by me]. The public-facing survey notice of 27 March 2026 says the same to residents: the point is to make it "makkelijker om je woning te isoleren" [D, `E11`]. **Implication [I]: the SMP will not tell a food forest, a buurttuin or an event what it may do. It is a building-works permit instrument.** Its relevance to this question is indirect and real: it is the mechanism through which the city is generating its first municipality-wide, publicly funded picture of where protected species are — and the species it is looking for are building-dwellers [D, `E11`].
+
+**5.8 The vision is not binding.** The Omgevingsvisie is "een richtinggevend document voor de gemeente, maar niet juridisch bindend voor de inwoners" [D, `N15`]. Statements in it about green or pressure cannot be relied on as rules [I].
+
+**5.9 What is *not* regulated is as telling as what is.** No APV article on picking, plucking or harvesting plants or produce was found; no article on drones; no park-level visitor regulation for any named park [D for absence, `N5`,`N12`]. Foraging on municipal ground therefore sits in a gap: not prohibited as an activity, but conditioned by art. 2:45 (where you may be) and by the tree rules (what you may do to a tree) [D/I]. A network that invites harvesting should treat that gap as **unresolved by design**, and say so on the invitation [I].
+
+---
+
+## 6. The distributional tension
+
+**6.1 What is documented.** The municipality defines a *groenarme buurt* as one with "minder dan 75m² openbaar groen per woning" and names nine buurten where it is actively greening: "Bloemenplein, Gildebuurt, Hemelrijken, Joriskwartier, Lakerlopen, Limbeek-Noord, Limbeek-Zuid, Rochusbuurt en Tivoli" [D, `E7`]. A group-by on the same dataset returns **17 distinct `buurt` values** — so the brief's "17 named neighbourhoods" is a count of strings, not of the programme's area; eight of those 17 hold exactly one project each, and "Limbeek Noord" / "Limbeek-Noord" is one place spelled two ways [D, `E7`, sha256 `1b87c10d…`]. The 70 records in that dataset are *projects*, not hectares and not dwellings.
+
+**6.2 The geography cuts against the simple story.** The nine named buurten form a contiguous inner-ring / Oud-Strijp / Tongelre-west band [D, `E7` geography]. The places the city's own opportunity map calls the most valuable nature — the beekdalen, Stratumse Heide with three vennen, Gijzenrooise Zegge, Urkhoven, the Dommeldal — are at the southern and eastern periphery [D, `E9`]. The 2025 leash designations follow the same periphery: Urkhoven, Ekkersrijt, Boktse Beemden, Gijzenrooi, Wandelpark Eckart, plus De Klotputten and the Wielewaal [D, `E5`]. **So the sites that would need protecting are not the sites the green-poor neighbourhoods adjoin** **[I]** — the inner-ring buurten adjoin street plantings, schoolyards, small parks and roofs.
+
+**6.3 Where the protected species actually are, in the green-poor fabric, is buildings.** The SMP's phase-1 survey buurten include Limbeek-Noord, Limbeek-Zuid, Hemelrijken, Gildebuurt, Woensel-West, Kronehoef, Vlokhoven, Schrijversbuurt, Vonderkwartier, the Bennekel, Oude Toren, Rapenland — i.e. largely the same inner-ring and Woensel-Zuid fabric the greening programme works in [D, `E11`,`E7`]. The species are huismus, gierzwaluw, vleermuis, in roofs and cavity walls [D, `E11`]. **The ecological constraint in the green-poor neighbourhoods is therefore a *building* constraint, and it is being handled by a different department, on a different timetable (2027), for a different purpose (insulation).** Anyone "bringing nature closer" in those buurten is working next to that constraint without being inside it [I].
+
+**6.4 What that does to the carrying-capacity question.** In the green-poor buurten there is very little *habitat* to damage and a lot of *use* to accommodate — the risk there is contested use, maintenance load and gentrification pressure, not ecological capacity [I]. At the periphery there is habitat and relatively green-rich residents, and the risk is genuine ecological capacity, currently undefined [I]. **The two halves of pillar 3 therefore need different limits**: a distributive and maintenance limit in the inner ring, an ecological limit at the periphery — and the repository's existing notes already document the inner-ring failure modes (a street garden dismantled after complaints; `practices` §3.2) [D, sibling].
+
+**6.5 The uncomfortable version.** "Green-poor neighbourhoods need access most" and "sensitive sites can absorb it least" are both plausible, but in Eindhoven they are not about the same places, so the slogan does not describe a trade-off the city actually faces at a single site **[I]**. The sharper trade-off the record does show is **within one site**: a park already heavily used by a specific group (dog walkers) against an ecological argument for restricting it — and that is exactly the Philips de Jongpark decision [D, `E6`]. **Protection can also function as exclusion**: restricting dogs, cars, fires and off-path presence raises the entry cost for precisely the casual, unaccompanied, non-organised use that pillar 3 says it wants [I]; and the city's own justification for *not* restricting the Philips de Jongpark was existing use, not equity [D, `E6`].
+
+---
+
+## 7. Governance options, with evidence status
+
+Each option is real in the retrieved record (either as an instrument Eindhoven uses or as a measure a source proposes). "Evidence status" says what is known about *whether it works*.
+
+| Option | Eindhoven status | Evidence status of effect |
+|---|---|---|
+| **Zoning for a use** (dogs on lead; off-lead areas) | **In force.** 8 leash areas, 64+8 off-lead areas [D, `E5`,`E4`] | **No measured effect retrieved.** The Genneper Parken pilot is claimed to have "bijgedragen aan de kennis van hondenbezitters" without a measurement [C, `E4`]. A before/after on compliance and on wildlife would settle it [U] |
+| **Temporal restriction** ("kwetsbare perioden") | **Named for enforcement**, never dated [D, `E4`] | **None.** The concept is in the B&W decision and the definition is not; a defensible version needs the site's own breeding/roosting calendar, which no retrieved Eindhoven document supplies [U] |
+| **Routing** (paths, missing links, entrances) | **A live programme**: Wielewaal walking network, fourth entrance, semi-hardened entrance, signage, audio tour [D, `E13`]; "missing-links in het wandelpadennetwerk" in Genneper Parken [D, `E1`] | **No ecological evaluation retrieved** for any routing decision. Routing is the most-used and least-evaluated instrument in the record [D/I] |
+| **Physical protection of a sensitive zone** | Proposed: "tijdelijke afscherming van een gebied met ecologische waarden om de fauna hierin te beschermen" [D, `E1` p.21] | **None.** No built example retrieved [U] |
+| **Interpretation / signage / campaigns** | In use: permanent "Honden aan de lijn" boards; social media; info boards on nature management at the Wielewaal [D, `E4`,`E13`] | **Claimed only** [C, `E4`]. Interpretation is the cheapest option and the one with the weakest evidence in this record |
+| **Permits and locatieprofielen** | Events permit exists; the "locatieprofiel" instrument exists in the APV but the documents were not retrieved [D, `N5`; U] | **Unknown.** A locatieprofiel could be the natural place to write down what a place is for; none was read |
+| **Closure** | APV art. 2:45 gives the formal basis for restricting presence; no park closure was retrieved | **[U]** |
+| **Management agreement with the site manager** (the "not here, not like this" instrument that already exists) | 8 leash areas, NNB protection, tree ordinance, green beleidsregel art. 3(1)(b)(c) covering "aanvragen voor beheer van gemeentelijk groen door derden" [D, `N7`] | **The strongest available route and the one the repository's other notes already recommend** (limits set site by site with the manager, `../../BRIEF.md` §1.3) [D/I] |
+| **A published carrying-capacity number** | **Not available anywhere** [D for absence, §4.4] | Would require a survey plus a decision; see §9 |
+
+**The order the evidence supports [I].** Take the manager's existing sensitivity structure (§3.2) as the starting vocabulary; write the site's terms down (which use, which season, which path, which light); prefer routing and zoning over exhortation, because exhortation is the option with a claim and no measurement; and treat any number as a **management decision to be defended**, not a discovery.
+
+---
+
+## 8. Counter-evidence and tensions
+
+1. **"Not the dominant pressure" is not "no pressure".** The city's own indicator names drought and eutrophication as leading [D, `E12`], and the leash decisions name disturbance as real [D, `E4`,`E5`]. A network could reasonably conclude that its visitors are not the problem and be wrong about its *own* site, where a small patch may be far more sensitive per square metre than the city average [I]. **No retrieved source resolves this** [U].
+2. **Protection can function as an exclusion device.** The leash decision explicitly balances access ("Honden willen ook hun energie kwijt en veel uitlaatveldjes zijn daar te klein voor") against biodiversity [D, `E4`], and the one refusal went to existing use [D, `E6`]. Restrictions raise entry costs for casual users; whether that is a cost worth paying is a governance choice, not an ecological finding [I].
+3. **"No evidence of harm" is doing a lot of work in this record — in both directions.** There is no evidence that the Eindhoven food forest harmed its site, and no evidence that it did not: no monitoring of any small edible site was retrieved [U]. Absence of a complaint is not absence of impact, and the promotional character of the local record is itself documented ("that absence should not be read as health — it is what a promotional and institutional record looks like", `practices` §5) [D, sibling].
+4. **The city's own numbers disagree with each other, again.** The dataset description and the tree ordinance both quote 75 m²/dwelling, but the dataset's `buurt` field yields 17 names against the nine the programme names [D, `E7`,`E8`]; the leash decision of December 2024 and the decision in force of August 2025 differ in parcel lists and in one area's boundary description ("tussen de Eisenhowerlaan en de Collseweg" vs "tussen de Eisenhowerlaan en het spoor") [D, `E4`,`E5`]. Two versions of one instrument; the final governs. Recorded, not reconciled.
+5. **Local experiential knowledge versus expert ecology.** Nothing in the retrieved record contains a resident's or a volunteer's account of what a place is like when it is busy; the sensitivity statements are all expert or policy products [D for absence]. The one place where an ecological argument lost was decided on *observed use* — a form of local knowledge, unrecorded [I]. The repository's own commitment ("the fig tree, the gate, the Friday morning") is a claim that this knowledge matters; this line found no source that tests it [U].
+6. **The one access-versus-ecology decision in the record went against the ecological advice.** Trefpunt Groen — the city's own green advisory body, and the closest thing to a civil-society voice in this file — advised the leash duty in the Philips de Jongpark on NNB grounds and was refused [D, `E6`]. A network that assumes the green establishment will back a protective limit should note that the one documented case went the other way.
+7. **The Wielewaal is simultaneously the most opened and the most restricted site in the file.** Opened to everyone in September 2025 with an explicit public-access purpose, under an all-day leash duty since August 2025, protected as NNB, with a visitor centre, a fourth entrance, an audio tour and 120 volunteers signed up — and **no published visitor number** ("wordt het landgoed goed bezocht") [D, `E13`,`E5`]. If pillar 1 needs evidence about what opening a green motor does, this is the site where the city is running the experiment without publishing the readings [I].
+8. **The generic literature's thresholds are not local, and the local model is not measured.** Every number in §4.3 comes from somewhere else; every local statement in §3.2 is expert judgement. Neither can carry the weight of "this site is full" [I]. The temptation to import a figure from the literature and call it Eindhoven's will be strong; it would be exactly the error the repository's other notes document for green totals.
+9. **A "carrying capacity" may be the wrong object.** The retrieval supports a different formulation: not *how many people*, but *which uses, in which places, at which times, under which manager*. The city's own model is organised that way (species group × location × use) [D, `E1`], as is the provincial instruction (values including "rust, stilte") [D, `N11`]. The number is the thing the record lacks; the *structure* it has. Building on the structure is more defensible than inventing the number [I].
+10. **The cleanest available protection may be a lease, not a rule.** The repository's continuity finding is that the closed food forest "owned nothing" [D, sibling `continuity`]. Nothing retrieved here connects tenure to ecological outcomes, but a site whose manager is also its keeper is the arrangement in which the §7 menu is even available [I].
+
+---
+
+## 9. Not established, and what would change the answer
+
+**Not established in the sources searched:** the visitor number at which any named Eindhoven green space is ecologically compromised; any measured ecological impact of visitors at any Eindhoven site; the content of the "Notitie Borging kwaliteit ecologie Genneper Parken"; any published Genneper Parken visitor count or dwell time; the Wielewaal's visitor numbers; any locatieprofiel; which Eindhoven stiltegebieden are designated; the Groenbeleidsplan 2017 text and its nature-and-landscape map; the Omgevingsvisie 2040 text; whether a *gebiedsgerichte vrijstelling* (rather than a permit) is available for green-space works; the ecological condition of any small community site (food forest, buurttuin, heemtuin); whether foraging or harvesting has ever caused a documented problem locally; whether any visitor-pressure intervention in this city has had a measured effect; and whether the 2022 indicator series has a 2025/2026 successor with different wording.
+
+**Not knowable with the methods used:** how residents and volunteers experience crowding, restriction or loss at these sites (no participant voice in the retrieved record, and no contact is permitted); the actual compliance rate with the leash duty or with art. 2:45; and what any site's soil, hydrology and vegetation actually are, since no field survey is in scope.
+
+**What would change the answer, in order.**
+1. **A site-level ecological baseline for one named site** — the kind the municipality already commissions for heat (`Emmasingelkwadrant`) and does not commission for ecology. It would convert every [U] in §3.3 for that site into [D]. *This is the single instrument that would make a limit arguable rather than assertable.*
+2. **The "Notitie Borging kwaliteit ecologie Genneper Parken" (BG7775-MI-ME-230607-1503, 7 June 2023).** It is the ecological half of the 2023 design, and the likeliest place where a local judgement about sensitivity and impact was written down [U, `E1`].
+3. **The 2021 Natura 2000 beheerplan for Leenderbos, Groote Heide & De Plateaux**, specifically its recreation/"verstoring" passage. That is the only document that could establish recreation as a *documented* pressure on the Natura site that partly lies inside Eindhoven [U; §11].
+4. **The Groenbeleidsplan 2017** and its map of areas designated for nature and landscape. The 2025 adviesnota uses exactly that designation as its selection criterion [D, `E6`]; the map is therefore the operative spatial filter for any protective measure, and it is not in the public record this line could reach [U].
+5. **A published visitor count and impact statement for De Wielewaal**, the city's own newly opened 145-ha experiment. It would be the first local test of what opening a site does, and the city has the entrance infrastructure to count [D, `E13`; U].
+6. **One paired local comparison**: an ecologically managed zone against an adjacent publicly used zone in the same park, over one season, measuring vegetation height/cover, soil penetration resistance, and bird disturbance distance. This is a modest, bounded field study — and the one thing that would turn the Genneper Parken model into a measurement.
+7. **A stated "too high" figure, with its rationale, published by whoever owns the site.** Any number would do; what matters is that it is written down, sourced and revisable. Until then, "not here, not like this" is a governance position that has to be argued on the manager's terms, not a threshold anyone can borrow.
+
+---
+
+## 10. Investigation and access log
+
+**What this line searched.** Municipal open data (catalogue queries; the green-poor-neighbourhood, public-green, tree, and biodiversity-opportunity datasets, `E7`,`E10`,`E9`,`E12`); the municipal biodiversity and green indicator series (`E12`); the biodiversity opportunity map's seven area descriptions (`E9`); the Genneper Parken visitor-pressure design (`E1`); the leash principle decision, adviesnota and consolidated decision (`E4`,`E5`,`E6`); the SMP survey notice (`E11`); the Wielewaal council letter (`E13`); the Museumpark VONK zoning file (`E3`); the APV, the tree ordinance and the provincial nature decision, each re-retrieved to verify the delegated line (`N5`,`E8`,`N12`); plus web searches for visitor numbers, a recreation note, and a park regulation, which returned nothing usable.
+
+**Access boundaries — recorded, not bypassed.**
+
+| Target | Failure | Class | Recovery attempted | Outcome |
+|---|---|---|---|---|
+| `eindhoven.notubiz.nl/document/4884804/3/...Groenbeleidsplan_2017` | **403**, cf-ray `a60c3050cd220c49-AMS` | Cloudflare challenge | none — a challenge is a boundary | not retrieved; the plan's operative distinction is documented only as quoted by the 2025 adviesnota (`E6`) |
+| `data.eindhoven.nl` catalogue query with `select=` on nested fields | **400** | my query error | dropped the parameter | n/a |
+| Recreation-ecology full texts behind publisher blocks | see the delegated line's log in [`sources.md`](sources.md) | access-restricted | open repositories, PMC/Europe PMC, DOAJ, author copies | partial; every unretrieved item labelled ABS or SNIP |
+
+**Why recovery stopped.** Nothing in the answer turns on the Groenbeleidsplan's exact wording, because its *use* is documented in the adviesnota that cites it. The two material gaps — the Genneper Parken ecology note and the Natura 2000 beheerplan — are named as PI requests (§11) rather than pursued further.
+
+---
+
+## 11. Delegation and verification
+
+Two independent lines ran in parallel on disjoint source families and disjoint output files; neither was asked to read the other's output, neither could spawn agents, and each was instructed to return "not established" rather than fill a gap. Its brief and output are in [`working/`](working/README.md).
+
+| Line | Independent error it reduces | Output | Lead verification |
+|---|---|---|---|
+| Dutch regulatory / municipal instruments | mistaking a policy ambition for a rule; carrying-capacity claims resting on one document's absence | `working/dutch-regulatory.md` | **Re-retrieved four sources myself**: the consolidated APV (`N5`) and confirmed art. 2:45, 2:18(1), 2:25(3)(d) and 2:57(1) **verbatim**; the Verordening bomen 2026 (`E8`) and confirmed art. 2(1) and 10(1); the SMP collegebrief (`N1`) and confirmed "medio juli 2027", the third-party-use sentence and the scope limitation; the Leenderbos aanwijzingsbesluit (`N12`) and confirmed the municipality list by grep. I also corrected one inherited detail: the brief's tree-ordinance CVDR id (`CVDR657211`) is the superseded 2021 instrument. |
+| Recreation ecology | importing a generic threshold and calling it local; a literature that reports only alarming numbers | `working/recreation-ecology.md` | see §4.3 and [`sources.md`](sources.md) |
+
+**Rejected or qualified.** A third-party SMP status page (`N2`) conflicts with the municipality's own date ("eind 2027" vs "medio juli 2027") and is carried as secondary, not authoritative [C]. The delegated line's framing that the APV art. 2:45 text makes ordinary park presence unlawful is **qualified** here: the text is documented, the enforcement practice is [U], and the article is unlikely to be aimed at routine path use [I]. Nothing from the sibling evidence base was used as a finding; where its claims appear they are marked [C] and labelled provisional.
+
+---
+
+## 12. Dead ends
+
+- **No published visitor counts** for Genneper Parken, the Wielewaal or any named Eindhoven park. Visitor *flow* data exists inside a supplier dashboard (2019–2020) and is not public [D, `E1`].
+- **No municipal *nota recreatie*, no recreational carrying-capacity policy, no park-level reglement** [U, `N` and `E` searches].
+- **No locatieprofielen** for events in green space [U].
+- **No ecological monitoring of any small community green site** in the city — food forest, buurttuin, heemtuin, schoolyard [U].
+- **No "natuurpunten" dataset or map service**: the natuurpuntenkaart is described on a municipal page and its underlying data is not published in the retrieved record [D, `N2`].
+- **The public-green layer cannot be summed into a City of Eindhoven total**: its own metadata puts Oirschot inside its territory, and 14,480 of its 60,353 polygons (≈1,278 ha) carry no category at all [D, `E10`].
+- **A food forest cannot be located in the green register**: no edible, food-forest or community-garden category exists; `Volkstuin` (11 polygons, 15.7 ha) is the nearest and is not the same thing [D, `E10`].
+
+---
+
+## 13. Implications for the three pillars
+
+**[I] — interpretation, not finding.**
+
+**Pillar 1, De Wielewaal as central green motor.** The estate is, in the same period, (a) opened to everyone as a public purpose (September 2025), (b) placed under an all-day, year-round leash duty "om de biodiversiteit te beschermen" (August 2025), (c) protected as NNB with a municipal management model and a users' council, and (d) counted by nobody in public [D, `E13`,`E5`]. **A "green motor" that is also a protected area with a leash duty is a specific, bounded kind of motor.** If pillar 1 is to be tested, the most informative question is not how many people it can attract but what its manager will permit, and on what recorded ground — which is exactly what the leash decision shows being decided [D].
+
+**Pillar 2, a city-wide ecosystem.** The connective function this research most supports is not a network of visitors but a **shared, written statement of site terms**: which uses, which seasons, which paths, which light, per site, borrowed from the manager's own sensitivity structure. Two of the three instruments that would make this possible already exist in public documents (the Groenbeleidsplan's nature-and-landscape designation; the leash/APV layer) [D, `E6`,`N5`]. A second defensible connective function is **shared measurement**: one modest, repeated ecological observation protocol across several small sites would produce the first local evidence any of them has [I].
+
+**Pillar 3, nature closer to everyday life.** The documented risk is not that contact is harmful in general; it is that **contact is unevenly designed**. The option with the weakest evidence in this file (campaigns and signage) is the one most often chosen; the option with an actual instrument (zoning, routing, terms set with a manager) is the one a volunteer network can least easily use alone [D/I, `E4`,`E1`]. **Bringing nature closer is safest where the intervention is in already-modified fabric** (de-paved streets, schoolyards, buurttuinen) — where the city is already doing it and where the ecological baseline is low — **and most contestable at the periphery**, where the habitat is real and the residents are already green-rich [I, from `E7`,`E9`,`E5`].
+
+---
+
+## 14. Limits
+
+**Method limits.** No field measurement; no site visit; no participant voice. Every Eindhoven-specific sensitivity statement in this note is a *document's* statement, and the most detailed one is a consultant's expert judgement that its own author offered as an illustration [D, `E1`]. Every generic threshold comes from another place and another study design. The two matrices in §3 must not be arithmetically combined.
+
+**Coverage limits.** The Groenbeleidsplan 2017 and the Omgevingsvisie 2040 were not read; the Genneper Parken ecology note and the Natura 2000 beheerplan were unretrievable; the SMP does not yet exist as a document; no locatieprofiel was found. The Genneper Parken report was read in full but its tables were transcribed from a two-column PDF extraction, so cell-level attribution should be checked against the PDF if a claim is load-bearing.
+
+**A caution on the lens itself.** "Documented versus constructed" is a useful cut but not a clean one: the leash designations are *documented rules built on undocumented ecology*; the Genneper Parken model is *undocumented conservation judgement built on documented species groups*; the 90% parking norm is a *documented number built on an explicit service rationale*. The distinction that matters is not document/not-document but **what a number is a number of, and who would have to defend it**.
+
+---
+
+## 15. Adjacent questions noticed, not researched
+
+1. **Which Eindhoven stiltegebieden are designated**, and whether any green space sits in one — the 50 dB(A) boundary standard is a real, quantified constraint that this line did not locate spatially [U, `N11`].
+2. **The locatieprofielen for events**: whether they exist for any park, and whether they contain ecological conditions. This is the most likely place where a usable local limit is already written [U, `N5`].
+3. **The Natuurbrandbeheersplan for Groote Heide / Stratumse Heide / Valkenhorst** — a fire-risk access regime, seen as a search snippet only [U].
+4. **Green gentrification in Eindhoven** — the international literature is summarised in the climate note; establishing it locally needs housing-market data, not this line [U].
+5. **Soil contamination on specific parcels** — deliberately excluded (no site allocation without checks); the general constraint literature is in the climate note [`../../climate/note.md`](../../climate/note.md).
+6. **Whether the 92% park-visiting figure survives the 2022→2026 gap**, and whether a newer indicator series exists — the retrieved yearbook is the 2022 accounts [U, `E12`].
+7. **The interaction between the SMP's building-species findings (2027) and the neighbourhood greening programme** — two municipal tracks in the same buurten, on different clocks, with no retrieved coordination [U, `E11`,`E7`].
+
+---
+
+## 16. PI access requests
+
+Material sources this run could not retrieve, which the PI may be able to obtain legitimately. This is a request, not a condition of a valid answer, and not a request to bypass any control; retrieve only if entitled and within the source's terms.
+
+1. **"Notitie Borging kwaliteit ecologie Genneper Parken", kenmerk BG7775-MI-ME-230607-1503, 7 juni 2023** (cited in `E1` p.11). *Would establish:* the ecological half of Eindhoven's only visitor-pressure model — possibly the local sensitivity judgement and any impact scale. *Tried:* the reference in the retrieved report only; not published in the sources searched. *Route:* a WOO/public-records request to the municipality, or a direct request to Royal HaskoningDHV as author.
+2. **Provincie Noord-Brabant, *Beheerplan Natura 2000 Leenderbos, Groote Heide & De Plateaux* (2021) and *Natuurdoelanalyse* for the same area** — `brabant.nl` PDFs aborted at the origin on every attempt. *Would establish:* whether recreation or visitor pressure is a documented *knelpunt* on the Natura 2000 site that partly lies inside Eindhoven. *Route:* the province's publication channel in a browser, or a library.
+3. **Gemeente Eindhoven, *Groenbeleidsplan 2017*, including its map of areas designated for nature and landscape** — the notubiz document returned a Cloudflare challenge. *Would establish:* the operative spatial filter for any protective measure, since the 2025 leash advice uses exactly that designation. *Route:* a browser, or the municipality's own publication channel.
+4. **Gemeente Eindhoven, *Omgevingsvisie 2040* (registratienummer 7784858)** — only the raadsvoorstel was retrieved. *Would establish:* whether the vision says anything binding-adjacent about green use and pressure. *Route:* the municipal publication system.
+5. **The *locatieprofielen* for events in Eindhoven green space**, referenced by APV art. 2:25(3)(d). *Would establish:* whether an ecological condition already exists on paper for any park, which would make a "not like this" position adoptable rather than invented. *Route:* the municipality's evenementen pages or a direct request.
+6. **Any visitor count or visitor-impact statement for De Wielewaal / het Lichtbos.** *Would establish:* the first local test of what opening a 145-ha estate did. *Route:* a WOO request to the municipality, or the annual report of the operator (Natuurmonumenten).
+7. **A newer municipal indicator set than the 2022 jaarrekening** (green satisfaction, park visiting, biodiversity trend). *Would establish:* whether the "verdroging en vermesting zijn leidend" statement still holds. *Route:* the municipality's programme accounting for 2025/2026.
+8. **The full text of the recreation-ecology studies behind any threshold the network intends to use.** *Would convert:* ABS-level numbers into verified evidence. *Route:* publisher PDFs or a library; no WOO request needed.
