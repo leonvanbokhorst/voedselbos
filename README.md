@@ -37,6 +37,7 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [Continuity](research/continuity/note.md) — closure timeline, drivers, continuity risk register.
 - [Network](research/network/note.md) — entity types, edge list, operating models.
 - [Participation](research/participation/note.md) — barriers, exhaustion, the municipal gatekeeper clause.
+- [Meaning and shared care](research/meaning/note.md) — what draws people in, what keeps them, and why no participant voice is on the record.
 - [Visibility](research/visibility/note.md) — what 2.0 is publicly, and whether visibility can organise it.
 - [Cultural intermediaries](research/visibility/cultural-intermediaries.md) — LAB-1, Natlab, food design.
 - [TAC garden](research/visibility/tac-garden.md) — verification: no built “new garden” documented; treat as unverified.
