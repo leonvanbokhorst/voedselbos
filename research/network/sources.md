@@ -1,0 +1,35 @@
+# Sources — network and operating models (#1, #2)
+
+All retrieved 26 November 2026 unless stated. Page dates are as shown by the source itself.
+
+| ID | Source | URL | Date of content | What it was used for |
+|---|---|---|---|---|
+| S1 | Voedselbos Eindhoven — homepage + "Nieuwsberichten" (closure post signed Maartje Kreike, 28-07-2026) | https://voedselboseindhoven.nl/ ; https://voedselboseindhoven.nl/nieuwsberichten/ | post 28-07-2026; site footer "Permanent gesloten sinds juli 2026" | closure, site address, activities, opening statement; reference to a November 2026 newsletter (not read) |
+| S2 | Supportpunt — story "Food Forest Eindhoven", interview with Maartje Meerman-Kreike | https://www.supportpunt.nl/en/verhalen/voedselbos-eindhoven/ | undated; describes website live since 01-10-2023, "ten years ago" founding | 0.7 ha, ~30 volunteers, Friday 10:00–12:30, founders Lize and Arjan, takeover in 2019, Sint Lucas design, Supportpunt service relation, "on the edge of De Wielewaal Estate" |
+| S3 | Wasven — "Besturen" and "Verantwoording" | https://wasven.nl/ondernemen/besturen/ ; https://wasven.nl/verantwoording/ | accessed 26-11-2026 | three ANBI foundations with KvK/RSIN, personele unie board + raad van toezicht, Governancecode Zorg, EKO/Green Key, fiscal unity |
+| S4 | Wasven — homepage and agenda | https://wasven.nl/ | accessed 26-11-2026; vacancies dated 15–16-11-2026 | care/dagbesteding/leerwerkplekken, gasterij/winkel/tuinderij/imkerij/ecologisch beheer/stadsboswachter, Natuurwerkgroep, klusochtend 2nd+4th Saturday, natuurwerkochtend 1st+3rd Saturday, Celebeslaan 30 |
+| S5 | Phood Farm — "Over ons" (incl. team, partners, opening hours, footer) | https://phoodfarm.org/over-ons/ | page updated 18-07-2025; footer © 2020–2025 | foundation status, KVK 81106505, five founders (2019), aquaponic care farm, 12/40/42 figures, partner list (Futuris, Unitio, BPD Bouwfonds, Rabobank Foundation, Stichting Doen, Anton Jurgens Fonds, Eindhoven Doet), Hugo van der Goeslaan 2-01, Rielse Erven outdoor farm |
+| S6 | Open Eindhoven — "Ontwerpproces Victoriapark" | https://www.openeindhoven.nl/projecten/centrum/emmasingelkwadrant/victoriapark/ontwerpproces-victoriapark | process from 2019; page undated | design participation by Renee Scheepers and Alissa van Asseldonk, belevingsonderzoek, VANTOT planting, "Vogelvrij" by Michèle Rijzewijk, Design Academy/Bibliotheek/TAC named as possible partners, 500–600 households overlooking the park |
+| S7 | Natuurmonumenten — "Natuurcentrum De Wielewaal opent deuren voor publiek" | https://www.natuurmonumenten.nl/bezoekerscentrum-de-wielewaal/nieuws/natuurcentrum-de-wielewaal-opent-deuren-voor-publiek | 07-05-2026 (opening 23-05-2026) | operator role, funders (gemeente, ASML, Regiodeal), volunteers, Jorn Droog as beheerder, Stichting Kunstival, planned outdoor space, municipality bought the estate in 2022 (quote wethouder Rik Thijs) |
+| S8 | Trefpunt Groen Eindhoven — Jaarverslag 2025 (24th annual report, incl. financial statements and cooperation protocol) | https://www.trefpuntgroeneindhoven.nl/uploads/Nieuws/jaarverslagen/TGE%20Jaarverslag%202025.pdf | reporting year 2025; protocol signed December 2025 | governance, staff, €232,000 turnover / €195,795 staff costs, 53 tree-felling and 33 zoning advices, Groen Cafés with Wasven/Bibliotheek/KNNV/IVN, De Wielewachters and Wielewaal advices, CMO composition, achterban and Stamtafel Biodiversiteit |
+| S9 | Restaurant listing for Bij Albrecht (plant-based foodspecialist), Oude Toren, Woensel-Zuid | https://www.oozo.nl/bedrijven/eindhoven/stadsdeel-woensel-zuid/oude-toren/2342994/bij-albrecht-plantbased-foodspecialist | listing, undated | entity type and location only; no green-community role evidenced |
+| S10 | Voedselbos Eindhoven — event page "Voedselbos Eindhoven op DDW 2024" | https://voedselboseindhoven.nl/events/voedselbos-eindhoven-op-ddw-2024/ | event 27-10-2024, 12:00–16:00, Het Wasven | the one documented Voedselbos–Wasven link and the full list of organisations present at "Wasven Natuurlijk" |
+| S11 | EindhovenVandaag — "Na twaalf jaar einde voor voedselbos aan Elburglaan: gemeente Eindhoven wil meedenken over nieuwe locatie" | https://www.eindhovenvandaag.nl/nieuws/na-twaalf-jaar-einde-voor-voedselbos-aan-elburglaan-gemeente-eindhoven-wil-meedenken-over-nieuwe-locatie | 18-06-2026 | initiative would stop at the current site after the summer; initiators seeking a new location; municipal willingness (headline claim; article body behind truncation) |
+| S12 | Trefpunt Groen Eindhoven — "Netwerk" page (map of partners, businesses/institutions, residents' initiatives) | https://www.trefpuntgroeneindhoven.nl/netwerk | accessed 26-11-2026 | TGE presents itself as part of a green network; visible names from the map: Stamtafel Biodiversiteit, Groen Bennekel, Struikroven, Voedselbosje bij De Splinter, Groendomein Wasven. The map is filter/JS-driven; the complete list with type labels could not be extracted |
+| S13 | Gemeente Eindhoven — raadsbrief "Vertraging aanleg Victoriapark – Emmasingelkwadrant", inboek 8098438_2.2.1, B&W 24-02-2026 | https://eindhoven.raadsinformatie.nl/document/16638763/1 | 24-02-2026 | **seen as a search-result title, not read** — cited only for the existence of a reported delay |
+| S14 | Raadsinformatie — "Vragenhalfuur Nóg een zomer zonder Victoriapark? (VVD)" | https://raadsinformatie.eindhoven.nl/document/17187361/1 | 2026 (exact date not read) | **seen as a search-result title, not read** — indicates the park was not open in summer 2026 |
+| S15 | Sibling evidence base, `../eindhoven-evidence-base` — claims EHV-C-1016 (Trefpunt Groen influence on the climate-adaptation programme) and EHV-C-1008 (uitdaagrecht participation report); TGE advices on raadsinformatie 17500894 / 17500895 / 17500897 | local files; documents at https://raadsinformatie.eindhoven.nl/document/17500897/1 and /17500894/1 | advices 29-07-2026 and 11-09-2026 | used as a lead only (provisional status, per its own records); it holds no organisation records for the six named initiatives |
+
+## Access notes
+
+- `openeindhoven.nl/nieuws/het-victoriapark-gaat-open` returned HTTP 403 on retrieval; not bypassed, so the park's opening date is not established here.
+- `eindhovenvandaag.nl` article body is behind a "Lees verder" truncation in text extraction; only the lead and headline were read.
+- The TGE network map (S12) and the Wasven page set are JavaScript/cookie-driven; only the extracted text was used.
+- `raadsinformatie.eindhoven.nl` disallows crawling in `robots.txt`; documents S13/S14 were not opened at all, only their titles seen in search results.
+- No social-media, closed-group or member-only material was accessed. No stakeholders were contacted.
+
+## Searches that returned nothing usable (negative evidence, 26-11-2026)
+
+- "Voedselbos Eindhoven" combined with Trefpunt Groen / Wasven / Phood (other than S10), and with Victoriapark.
+- Any evidence of a Voedselbos Eindhoven legal entity, lease, subsidy or annual report.
+- Any public statement of refused or ended collaboration among these initiatives.
