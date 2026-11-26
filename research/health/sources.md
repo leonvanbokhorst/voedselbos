@@ -25,6 +25,7 @@ All retrievals 26 November 2026 unless stated. No login, paywall, CAPTCHA or Clo
 | **E5** | Centre of Expertise Health (page served under browser title "Startpunt Samenzorg") | Fontys Hogeschool | undated, live 2026 | https://www.fontys.nl/Onderzoek/Gezonde-en-inclusieve-samenleving-1/Centre-of-expertise-Health.htm | 2026-11-26T20:30:08 | `e6c9e60793830029` | full (15 807 chars) |
 | **E6** | Gezondheidsvaardigheden in Nederland. M-POHL Health Literacy Survey 2024-2026 (RIVM-briefrapport **2026-0076**) | RIVM (Fransen, Meulman, Rademakers, Heijmans); commissioned by VWS | 2026 | https://www.nivel.nl/sites/default/files/bestanden/13473.pdf | 2026-11-26T20:36:41 | `c521c7317c121370` | full text retrieved (PDf, 55 pp.); quotes verified in §3.1/§3.2 |
 | **E7** | Infosheet gezondheidsvaardigheden en laaggeletterdheid | Pharos | oktober 2026 | https://www.pharos.nl/infosheets/gezondheidsvaardigheden-en-laaggeletterdheid/ → resolves to `.../infosheetgezondheidsvaardighedenenlaaggeletterdheid/` | 2026-11-26T20:29:44 | `a575a3d7cab2d83e` | full (11 742 chars) |
+| **E8** | Groen verbindt zorg en de buurt. Van storming naar performing in een stimuleringsprogramma, 2015-2018 | Verwey-Jonker Instituut (Van der Klein, Wilderink & Reches), for the Oranje Fonds | Mei 2019 | https://www.verwey-jonker.nl/wp-content/uploads/2020/07/315009_Groen_verbindt_zorg_en_de_buurt_WEB-2.pdf | 2026-11-26T20:41:18 | `4cffe46428cb9c60` | full text retrieved (PDF, 358 720 chars); summary figures for the three statements and the education profile verified in §3.4, §3.9 and §4 |
 
 Note on **E6**: the Pharos factsheet cites the *revised* report, RIVM **2026-0107**. That version's full text was not obtainable (no accessible bitstream; record and abstract only), so the note quotes the earlier version **2026-0076**, whose headline figures are identical. The version difference is recorded rather than hidden. DOI 10.21945/RIVM-2026-0076 / 10.21945/RIVM-2026-0107.
 
@@ -137,11 +138,10 @@ Ids `D1`, `D3`, `D4`, `D8`, `D13`, `D25` are in the working file and are not cit
 
 ## Repository cross-references
 
-Cited in [`note.md`](note.md) by relative path rather than by id, because they are this repository's own notes rather than external sources. They are **not independent witnesses** to the literature — one retrieval each, carried through from the earlier notes.
+Cited in [`note.md`](note.md) by path rather than by id, because they are this repository's own notes rather than external sources. They are **not independent witnesses** to the literature — one retrieval each, carried through from the earlier notes.
 
-- [`../climate/note.md`](../climate/note.md) §3.6 — the *Groen Verbindt* evaluation (8–9 in 10 volunteers met new people; 4 in 10 dare ask for help; volunteer education profile), and the coordinator-burden and closure findings.
-- [`../practices/note.md`](../practices/note.md) — the four local practices, and "participation designed to be possible without being productive".
-- [`../meaning/note.md`](../meaning/note.md) — the Voedselbos archive's own "open klaslokaal" and "duurzame leefstijl" framing, and the participant silence.
 - [`../continuity/note.md`](../continuity/note.md) — the closure, tenure and operator-concentration findings.
 - [`../network/note.md`](../network/note.md) — the edge list, and Voedselbos Eindhoven's absence from Trefpunt Groen's *achterban*.
+- [`../meaning/note.md`](../meaning/note.md) — the Voedselbos archive's own "open klaslokaal" and "duurzame leefstijl" framing, and the participant silence.
 - [`../decisions/note.md`](../decisions/note.md) — the four decision-critical uncertainties.
+- **Two sibling notes are unmerged on their own branches** at the time of writing, so they are linked at their branches: [#20 practices](https://github.com/leonvanbokhorst/voedselbos/blob/research/20-local-practices/research/practices/note.md) — the four local practices and "participation designed to be possible without being productive"; [#22 climate](https://github.com/leonvanbokhorst/voedselbos/blob/research/22-climate-adaptation/research/climate/note.md) — cited only for the climate pillar, because the *Groen Verbindt* evaluation it also reports was re-read at source for this note (`E8`) rather than inherited.

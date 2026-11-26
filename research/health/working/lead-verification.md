@@ -191,3 +191,36 @@ plus networks "**Coalitie Vitaal in Brainport**" and "**Alliantie Gezondheidsvaa
 3. **[C→D on role drift]** Sturm's public role has narrowed between sources: "kartrekker Centre of Expertise Health" (2023) vs "Lector Mens en Technologie" and the named contact for "Ook samen onderzoek doen?" (2026 CoE page). Both are Fontys pages and may simply be different hats. Recorded as a dating problem, not as a contradiction.
 
 **What this file cannot do.** It cannot tell you whether DE STAP has ever evaluated anything, who owns it, what "partnership" obliges a partner to do, or whether any garden in Eindhoven has ever been invited into it. Those are the delegated regional line's questions.
+
+---
+
+## 6. The *Groen Verbindt* evaluation — read at source rather than inherited
+
+| Item | Value |
+|---|---|
+| URL | `https://www.verwey-jonker.nl/wp-content/uploads/2020/07/315009_Groen_verbindt_zorg_en_de_buurt_WEB-2.pdf` |
+| Status | 200, `application/pdf`, 5 718 979 bytes |
+| sha256 | `4cffe46428cb9c60b774dabad87a0ef889c2d1f8739644b1db6f3de15ebe693e` |
+| Retrieved | 2026-11-26T20:41:18Z |
+| Document | Van der Klein, Wilderink & Reches (Verwey-Jonker Instituut), *Groen verbindt zorg en de buurt. Van storming naar performing in een stimuleringsprogramma, 2015-2018*, mei 2019, for the Oranje Fonds |
+| Read depth | full text retrieved (358 720 chars); summary figures and the education paragraph read directly |
+
+**Why read it.** The sibling report for issue #22 cites this evaluation for three figures this note depends on. Rather than inherit them, I re-read the report — and the inherited summary was slightly wider than its source.
+
+**What the report says** [D], verbatim from the summary of year-on-year results on the volunteer questionnaire:
+
+> "• Ik heb het afgelopen jaar nieuwe mensen leren kennen in de buurt: **elk jaar door 9 op de 10 deelnemers** bevestigd."
+> "• Sinds het afgelopen jaar sta ik eerder voor andere mensen klaar: elk jaar door **5 op de 10** deelnemers bevestigd."
+> "• Sinds het afgelopen jaar **durf ik meer mensen om hulp te vragen**: elk jaar door **4 op de 10** deelnemers bevestigd."
+
+And, on the background characteristics [D]:
+
+> "De vrijwilligers bij de tuinen zijn redelijk hoogopgeleid. **Ongeveer de helft van de vrijwilligers heeft een universitaire opleiding of een opleiding in het hoger beroepsonderwijs** afgerond; en bij de buurtbewoners is dat **ruim een derde**."
+
+One further figure worth recording because it is a self-attribution and should not be read as an effect [C]:
+
+> "Ongeveer 80% van de respondenten wijt hun voortgang op sociale contacten, geluk en gezondheid aan hun deelname."
+
+**What this changes.** Two things. (1) The inherited "eight to nine in ten" is **9 in 10** for the new-contacts statement — a small tightening. (2) The report contains a **gradient** the earlier summary flattened: 9 in 10 meet new people, 5 in 10 say they stand ready for others, **4 in 10** dare ask for help. That gradient — giving rises, asking does not — is the empirical basis for this note's H3, and it is stronger than a single "4 in 10" figure on its own.
+
+**What it does not change.** The earlier note's qualification still holds: this is a volunteer self-report survey in a funded stimulation programme (2015–2018), with no comparison group, and the 80% attribution is exactly the kind of statement the repository treats as **[C]**.
