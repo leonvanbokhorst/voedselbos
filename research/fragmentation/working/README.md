@@ -1,0 +1,14 @@
+# Working files — issue #27
+
+These are the raw materials behind [`../note.md`](../note.md). **They are not evidence in themselves.** The note cites them for the full source tables, verbatim excerpts and access logs of each delegated line; the Lead re-read the pivotal primary documents and records in the note's §6 what was and was not re-verified.
+
+| File | Owner | What it contains | Read depth / limitation |
+|---|---|---|---|
+| [`frame.md`](frame.md) | Lead | The research frame written before retrieval: question, propositions, subquestions, source families, scope, access risks, stop conditions | Written before the retrieval; not updated after it, so that the ex-ante frame is preserved |
+| [`line-a-national-financing.md`](line-a-national-financing.md) | Delegated line A | National financing/accountability architecture: GALA MTR, parliamentary letter, brede SPUK, the 29-10-2025 amendment, AZWA/HLO, RIVM 2025 and 2026, the VNG toets | MTR and letter full; RIVM 2025 full-text extraction; RIVM 2026 **abstract only** (PDF failed ≥8 times); IZA MTR and AZWA text **not retrieved** |
+| [`line-b-regional-money.md`](line-b-regional-money.md) | Delegated line B | Regional institutional/financial architecture: subsidy scheme versions, award advice notes, GGD pathways, 2026 Herijking, monitor, 2025 accounts | Scheme and award notes full; Herijking targeted extraction; **Regioplan PDF 404**; no consolidated award register; 2025 underspend figures not fully reconciled |
+| [`line-c-scholarly-evidence.md`](line-c-scholarly-evidence.md) | Delegated line C | 25 studies on projectification, resource dependence, psychological ownership, status, trust, partnership effects, polycentricity, coordination burden, attribution; negative cases; "not collaborating is reasonable" | Mostly **abstract level**; two T&F full texts Cloudflare-403; founder-identity studies publisher-elided and **not used**; McGinnis is a working paper |
+
+**Verification.** The Lead re-read at source: the GALA MTR, the parliamentary letter, the RIVM 2025 monitor, the Staatscourant amendment, the 2027 SPUK announcement, the subsidy scheme, the 2026 amendment, the municipal subsidy page, the 2025 award advice note, the municipal evaluation/agenda, the GGD board paper, the GGD "meer uitleg" page, the 2026 Herijking, the partner list, both entry forms, the Eindhoven directory (counts), and the Corbin et al. 2018 full text. Everything else is child-reported and labelled as such in the note's §6.
+
+**Access.** No login, paywall, CAPTCHA, Cloudflare challenge or authentication wall was bypassed. All requests were signed with the operator's Web Bot Auth identity (`dsh-research-reader`, keyid `ey9Tj49-…`). robots.txt was not relied upon for any material source. No stakeholder was contacted; the listing and partner forms were read, not submitted.
