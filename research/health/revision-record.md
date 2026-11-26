@@ -118,7 +118,7 @@ Full metadata (identifier, URL, timestamp, sha256 prefix) in [`sources.md`](sour
 |---|---|---|---|
 | **H1** | A shared practice produces task capability, not portable capability | No retrieved study measures capability after exit; the two studies that look hardest (`D6`,`D19`) find confident participation and weak transfer, and JArDinS could not see it (dose near zero for half, no capability outcome) | A garden cohort measured at exit and 12 months later on a task performed at home, with a comparison |
 | **H2** | The demand profile is the health contribution | Requires knowing **who comes** — never published for any Eindhoven practice [U]. The one Dutch data point (education profile, `E8`) and JArDinS's (75.8% university) both point the *other* way, but neither is an Eindhoven garden | A participant description or attendance data from one garden; it needs no study design |
-| **H3** | Asking is the one learnable health-literacy skill, and it does not rise with participation | The Dutch measurement shows the asymmetry (4 in 10) and the qualitative material corroborates it (`F5`), but no design has tested whether an intervention *can* move it | One question asked at two time points, or of leavers vs stayers; the cheap test in `note.md` §5.3 |
+| **H3** | Asking is the one learnable health-literacy skill, and it moves less than social contact does | The one Dutch item that asks is a retrospective change question with no baseline (4 in 10 affirm a rise in asking against 9 in 10 affirming new contacts, `E8`), and the qualitative material is consistent with it (`F5`); **neither measures a change**, so no design has yet tested whether an intervention *can* move asking | A repeated measure of help-seeking in the same people, with a comparator, or a question asked of leavers vs stayers; `note.md` §5.3 |
 | **H4** | The listing, not the partnership, reaches more people | Enquiry/traffic data is held by the movement and is not public [U] | The movement's own enquiry data, or a listed activity's own records |
 | **H5** | Relational learning carries interactive capability | No study measures interactive or critical health literacy in any green setting; the instruments that exist cannot see the skill-type distinction at short-form length (`A6` sheet 15) | An adult garden/kitchen study with an interactive-HL outcome — the single most valuable missing study |
 
@@ -134,7 +134,7 @@ Full metadata (identifier, URL, timestamp, sha256 prefix) in [`sources.md`](sour
 
 **In one line:** v1 said *the evidence says no*; v2 says *the evidence does not say yes, and does not say no — and here, precisely, is what would.*
 
-**What did not change:** every factual finding about the Dutch number and its instrument; the DE STAP architecture and its fragility; the directory classification; the asking-for-help gradient; the participation evidence table; the exclusion and qualification-trap analysis. The revision **narrows or withdraws conclusions drawn from those findings**; it does not revise the findings.
+**What did not change:** every factual finding about the Dutch number and its instrument; the DE STAP architecture and its fragility; the directory classification; the 9/5/4 **reported-change** gradient in `E8`; the participation evidence table; the exclusion and qualification-trap analysis. The revision **narrows or withdraws conclusions drawn from those findings**; it does not revise the findings.
 
 ---
 
@@ -174,3 +174,41 @@ Stated fully in `note.md` §13; summarised here because they bound what this rev
 3. **`note.md` §4.2 and §6.5 together** — whether `F5` is correctly treated as *one witness family* with `B7`, not as independent corroboration.
 4. **`working/nl-literature.md` §2** — whether the Dutch search is genuinely auditable given that two hit counts are missing.
 5. **`note.md` §8** — whether the Fontys/DE STAP analysis stays on the right side of "does not assume willingness to collaborate".
+
+---
+
+## 9. Review response (independent reviewer, post-submission)
+
+Verdict returned on PR #26: **proportionate with changes**. Three items were raised. All three are fixed on the same branch; nothing else was rewritten.
+
+### 9.1 The single Dutch datum was labelled two incompatible ways — **fixed**
+
+**What was wrong.** `E8` was labelled **Contradicts** in the §1.2 status table ("Interactive health literacy … rises with participation | Contradicts in the one Dutch measurement (4 in 10)") and, in the same document, named in §5.3 as the **already-satisfied falsifier** of the live hypothesis H5 ("which is what `E8` already shows"). Both were over-readings of one source. `E8` is a **cross-sectional retrospective change item** — "Sinds het afgelopen jaar durf ik meer mensen om hulp te vragen" — with no baseline, no comparison group and no denominator for "flat". Forty per cent affirming a rise cannot show that asking *stays flat*, and it cannot contradict the hypothesis that relational participation *can* support asking.
+
+**What was done.**
+- The §1.2 status table now has **two rows**: participation *raising* interactive health literacy → **Insufficient to adjudicate**; a single retrospective change item *measuring whether asking rose over time* → **Measure-unsuitable**. The "Contradicts" label is gone.
+- §1 finding 4 now says what `E8` does show — a gradient in **reported change** (a large majority reporting new contacts, a bare majority standing ready for others, a minority daring to ask more often) — and states explicitly that **all three items are retrospective self-reports with no baseline and no comparison group**, so none can report a level or a measured rise.
+- §1 finding 10, §3.1 and §5.2 carry the same label; §3.1 now says what the item *cannot* show.
+- §5.3's **falsifier is rewritten as a test that has not yet been run**: a repeated measure of help-seeking in a setting with a comparator showing no movement while reported contact rises, or a qualitative account of asking **at the point of need**. `E8` is named as *not* being that falsifier, and why.
+- §10 H3 and H5 adjusted to match; H5's "if it failed" no longer cites `E8`.
+- Every other citation of the 9/5/4 gradient was checked and now uses the same label (`note.md` §1 findings 4 and 10, §1.2 table, §3.1, §5.2, §5.3, §10 H2/H3/H5; this file's H2 and H3 rows). `E8`'s **education profile** is *not* affected — a background characteristic, not a change item — and is still used for H2.
+
+### 9.2 Pharos 52.3% / "earlier version 2026-0076" — **fixed**
+
+**What was wrong.** The note observed the factsheet's internal inconsistency (52.8% headline, 52.3% explanatory paragraph), but the surrounding text implied the difference could be attributed to the earlier report version 2026-0076, "whose headline figures are identical". That attribution was not evidenced: the factsheet cites the **revised** report 2026-0107, and 2026-0107 was not read in full.
+
+**What was done.** The "earlier version" attribution is dropped. `note.md` §6.1 keeps the **observable discrepancy**, states that **which figure is right is not resolved here**, names revision of the report as a *plausible but unverified* explanation [U], and states the upper bound as **52.3–52.8%** in any use. The `E6` note in `sources.md` now says the same in its own words: "no source retrieved explains the difference, and this note does not attribute it to a difference between report versions".
+
+### 9.3 "Insufficient" versus "weakly positive leaning" — **fixed by stating one position once**
+
+**What was wrong.** The report did both in different places: interactive health literacy was marked *Insufficient* (§1.2, §5.2) while other passages leaned positive — the short answer's "plausible setting", "claim the narrow things", and the "supports" half of several table rows — without either being reconciled.
+
+**What was done.** One sentence, added once, at the end of `note.md` §1.2, and cross-referenced from §5.3 rather than repeated:
+
+> On the neighbouring evidence, relational participation is **weakly positive for interactive capability and self-efficacy and unstudied for health literacy as an outcome**: the first is why the mechanism deserves a test (§5.3), the second is why no claim may be made (§2.2). The weak positive is not a substitute for the missing study, and the missing study is not a reason to discount the weak positive.
+
+**Position for the PI to rule on.** If the PI prefers the stricter line — *unstudied means the report states no leaning at all* — that single sentence in §1.2 is the only place that has to change; the tables and the hypotheses are already expressed in the four states and do not depend on it.
+
+### 9.4 What was not changed
+
+Everything the reviewer accepted: the withdrawal of "implausible", the construct family without ranking, the JArDinS re-scoping, the instrument/assessment split, the conditional conclusions with stated failure modes, the Fontys/DE STAP analysis, and the Dutch search audit. No section was rewritten for this response.
