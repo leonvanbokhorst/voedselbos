@@ -43,6 +43,7 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [TAC garden](research/visibility/tac-garden.md) — verification: no built “new garden” documented; treat as unverified.
 - [Ecodorp Boekel](research/comparators/ecodorp-boekel.md) — the closest comparator, and what does not transfer.
 - [Decisions](research/decisions/note.md) — the four decision-critical uncertainties.
+- [Climate adaptation and food forests](research/climate/note.md) — what the evidence supports for shade, water, access and shared care in a densifying city; the cool-place guidance corrected; sources in [`sources.md`](research/climate/sources.md).
 - [Experiments](research/experiments/note.md) — three low-threshold proposals.
 
 Each note has a source list next to it.
