@@ -17,7 +17,9 @@ Three strategic pillars remain leading:
 2. Connect existing initiatives into a city-wide ecosystem.
 3. Bring nature closer to people's everyday lives through accessible initiatives.
 
-Starting points named in the commission: Voedselbos Eindhoven, De Wielewaal, Wasven, Bij Albrecht, Phood, Victoriapark and their wider networks.
+**Focus clarification.** The primary focus is Voedselbos Eindhoven and its community — including its July 2026 closure and possible relocation. De Wielewaal is one adjacent node and a municipal-estate model, not the organising centre. Pillar 1's "Wielewaal as central green motor" is therefore treated as a hypothesis to test, not a premise.
+
+Starting points named in the commission: Voedselbos Eindhoven (the focus), De Wielewaal (context), Wasven, Bij Albrecht, Phood, Victoriapark and their wider networks.
 
 ## Working constraints
 
