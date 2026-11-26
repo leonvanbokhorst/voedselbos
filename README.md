@@ -1,4 +1,4 @@
-# Voedselbos Eindhoven — a research landscape
+# Voedselbos Eindhoven: the landscape
 
 A friendly guide to this workspace. It is a landscape of questions, not a work plan.
 
