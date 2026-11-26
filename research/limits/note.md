@@ -350,7 +350,7 @@ Two independent lines ran in parallel on disjoint source families and disjoint o
 2. **The locatieprofielen for events**: whether they exist for any park, and whether they contain ecological conditions. This is the most likely place where a usable local limit is already written [U, `N5`].
 3. **The Natuurbrandbeheersplan for Groote Heide / Stratumse Heide / Valkenhorst** — a fire-risk access regime, seen as a search snippet only [U].
 4. **Green gentrification in Eindhoven** — the international literature is summarised in the climate note; establishing it locally needs housing-market data, not this line [U].
-5. **Soil contamination on specific parcels** — deliberately excluded (no site allocation without checks); the general constraint literature is in the climate note [`../../climate/note.md`](../../climate/note.md).
+5. **Soil contamination on specific parcels** — deliberately excluded (no site allocation without checks); the general constraint literature is in the climate note [`../../climate/note.md`](../climate/note.md).
 6. **Whether the 92% park-visiting figure survives the 2022→2026 gap**, and whether a newer indicator series exists — the retrieved yearbook is the 2022 accounts [U, `E12`].
 7. **The interaction between the SMP's building-species findings (2027) and the neighbourhood greening programme** — two municipal tracks in the same buurten, on different clocks, with no retrieved coordination [U, `E11`,`E7`].
 
