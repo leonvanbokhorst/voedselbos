@@ -122,7 +122,7 @@ Any municipal component in the Voedselbos closure beyond the absence of a land i
 used the uitdaagrecht since 30 June 2026 **[N]**. What the Soortenmanagementplan permits for small green initiatives
 **[N]**. Whether Henri Dunantpark's food forest has a municipal agreement **[N]**. Volunteer counts, ages or dropout
 rates for Eindhoven green initiatives **[N]** — the provincial figure is regional, the municipal one a self-description
-trend. Whether *Buurttuin vol Kleur* actually stopped after 2026 **[N — inferred from a one-season grant]**. The
+trend. Whether *Buurttuin vol Kleur* actually stopped after 2026 **[N — inferred from a one-season grant]**. **Update, 26-11-2026 (#20):** the garden is documented as running, as a youth-work programme under GroenKLUP with paid supervisors; the one-season inference should not be repeated. See [`../practices/note.md`](../practices/note.md) §5. The
 Wasven/DAEB funding relationship **[N]**. Individual motives **[excluded by scope]**. Two access boundaries worth
 naming: council documents on the food forest (notubiz, PvdD "Vragenhalfuur Voedselbos") returned **Cloudflare 403** and
 were not read, and `eindhoven.nl` press pages returned 403; a human with browser access should check the notubiz file,
