@@ -44,7 +44,7 @@ Issues are candidates, not a queue. `selected` and `parked` are the only labels,
 - [Ecodorp Boekel](research/comparators/ecodorp-boekel.md) — the closest comparator, and what does not transfer.
 - [Decisions](research/decisions/note.md) — the four decision-critical uncertainties.
 - [Experiments](research/experiments/note.md) — three low-threshold proposals.
-- [Health literacy and shared green practice](research/health/note.md) — what the Dutch “half of us” figure actually measures, why food (not health) literacy is the construct with a gardening evidence base, and what the regional health movement is in 2026; sources in [`sources.md`](research/health/sources.md).
+- [Health literacy and shared green practice](research/health/note.md) — what the Dutch “half of us” figure actually measures, why that instrument cannot assess a garden, which capability a shared green practice could plausibly build and under what conditions, and what the regional health movement is in 2026; revision record in [`revision-record.md`](research/health/revision-record.md); sources in [`sources.md`](research/health/sources.md).
 
 Each note has a source list next to it.
 
