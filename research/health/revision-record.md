@@ -29,7 +29,7 @@ Legend: **unchanged** · **narrowed** (claim kept, scope reduced) · **corrected
 | **P1** | No retrieved study uses an adult community garden/allotment/urban farm/food forest deliberately as a health-literacy intervention | **Unchanged in substance, corrected in use** | The search-coverage claim stands, and a fifth search (the Dutch one) did not disturb it. **What changed is what it licenses:** v1 used it as evidence that the mechanism was implausible; v2 marks it **Insufficient** and states in `note.md` §2.2 and §6.5 that "the absence is not refutation". State row added. |
 | **P2** | "Green health literacy" is not an established construct; the real family is environmental/climate/planetary health literacy, professional-facing and unvalidated | **Narrowed** | Kept as a claim about the *construct family* (`A27`). v2 adds the explicit caveat that a non-established construct is **not** evidence that the underlying mechanism fails — the construct's absence and the mechanism's absence are different findings. |
 | **P3** | Gardening is an established food-literacy vehicle, with a school-age evidence base | **Unchanged** | Re-stated in §6.3 with the Dutch addition from `F8` (produce reaches the plate only where growing is a routine practice). |
-| **P4** | Dutch "about half" is a 44.3–52.8% band from 2025 fieldwork; the spread is mostly instrument length | **Unchanged, and reinforced** | No new retrieval contradicts it. v2 adds that the dashboard which might hold a municipal figure returns no readable values, so the Eindhoven gap remains [U]. |
+| **P4** | Dutch "about half" is a 44.3–52.8% band (upper bound uncertain, 52.3–52.8%) from 2025 fieldwork; the spread is mostly instrument length | **Unchanged, and reinforced** | No new retrieval contradicts it. v2 adds that the dashboard which might hold a municipal figure returns no readable values, so the Eindhoven gap remains [U]. |
 | **P5** | The rise from 25–36% to 44–53% is substantially a measurement change, and the national statistics portal says so | **Unchanged** | — |
 | **P6** | The cut-offs are conceptually fixed; the score sits near the neutral midpoint; the instrument measures perceived difficulty in a sample that excludes non-readers | **Unchanged, re-classified** | Same evidence (`A4` pp.18, 31). v2 adds a **State: measure-unsuitable** and separates it from the hypothesis: this is a fact about the instrument, and it is now the anchor of the "instruments vs assessment" section (§7). |
 | **P7** | The Dutch operational definition is relational; the Dutch field locates the problem partly in the setting | **Corrected in use** | The proposition is unchanged, but **v1's inference from it was too small**. v1 concluded that a garden is therefore an *access* claim, not a *literacy* claim. v2 adds (§6.2) that if health literacy is a *samenspel* of capacity and demand, a setting that lowers demand is exercising the other half of the construct — while **also** stating that this does not raise the person's capacity. Both halves are now held apart. |
@@ -212,3 +212,35 @@ Verdict returned on PR #26: **proportionate with changes**. Three items were rai
 ### 9.4 What was not changed
 
 Everything the reviewer accepted: the withdrawal of "implausible", the construct family without ranking, the JArDinS re-scoping, the instrument/assessment split, the conditional conclusions with stated failure modes, the Fontys/DE STAP analysis, and the Dutch search audit. No section was rewritten for this response.
+
+### 9.5 Second review pass — accept with one named change, two propagation problems, four sentence-level items
+
+Verdict: **accept with one named change**, plus two propagation problems and four sentence-level items recorded as open but not blocking. All are fixed below. Nothing else was touched.
+
+**The named change (blocking): the `E6` note in `sources.md` still carried the removed attribution.**
+`note.md` §6.1 had dropped the claim that the two report versions show identical figures, but the `E6` note in `sources.md` still said "so the note quotes the earlier version **2026-0076**, whose headline figures are identical" — sitting two paragraphs above a note saying the discrepancy is *not* attributed to a version difference. The two statements could not both stand. **Fixed with the reviewer's wording:** "That version's full text was not obtainable (no accessible bitstream; record and abstract only), so the note quotes **2026-0076** for the Q47/Q12 figures and does **not** claim that the two versions' figures are identical."
+
+**Propagation problem 1: the 52.3–52.8% hedge was confined to one bullet.**
+Three places stated 52.8% flat as the band's upper bound while §6.1 hedged it. **Fixed by propagating the hedge and making `note.md` §6.1 the canonical statement:**
+- §1.1 finding 1: the band now runs from 44.3% to "an upper end that is itself uncertain, **52.3–52.8%**", with the spread given both ways (8 points on the RIVM report's figures, 5.7 on Pharos' 52.3%).
+- P4: "a band of 44.3–52.8% (upper bound uncertain, **52.3–52.8%** — §6.1)".
+- §6.1 second bullet: "Q47 = 52.8% (52.3% in Pharos' explanatory paragraph)".
+- §6.1 first bullet now names both sources explicitly — the RIVM report read in full gives 52.8%, the Pharos factsheet gives 52.8% in its headline and 52.3% in its explanatory paragraph — and closes: "**No figure outside 52.3–52.8% is used for the upper bound anywhere in this note.**"
+- `working/assessment-methods.md` gained the same pointer.
+- **Left deliberately untouched: `working/hl-construct.md`**, line A's v1 file. It is a historical record of what that line retrieved and how it read it; rewriting another line's raw notes to match a later decision would misrepresent its work. Where it and the note differ, the note governs (`working/README.md`).
+
+**Propagation problem 2 / sentence-level item 3a: "but not knowledge".**
+The source says there was "no clear pattern of the effect of teach-back on knowledge (very low COE)" — not that knowledge failed to improve. Corrected in §1.1 finding 10, P32, §3.1 and the §7 method table to **"no clear pattern of effect on knowledge, very low certainty"**, and the same wording applied in `working/assessment-methods.md`.
+
+**Sentence-level item 3b: "no mechanism: reading is not what happens there".**
+Universal and unevidenced. §3.2 now reads: functional health literacy is not claimed because "no retrieved study shows a reading demand that would exercise it, the documented activities being doing, maintaining and harvesting (`C7`,`C9`,`E3`)".
+
+**Sentence-level item 3c: "Nobody measures the after-the-end period".**
+A claim about the whole literature from a bounded search. Changed to "**No retrieved study** measures the after-the-end period" (§6.5).
+
+**Sentence-level item 3d: the §1.3A Outcome condition was stricter than §7 allows.**
+The row admitted only performance/teach-back/observation, so a context-sensitive qualitative outcome could not have satisfied a condition the report elsewhere says is feasible (`F7`,`D22`,`F8`). **Widened**, with a guard: the outcome must be specified *before* the activity and be one of (i) task capability or asking checked by performance or teach-back, (ii) a **context-sensitive qualitative or participatory account** of asking and appraising **with its own stated falsifier**, or (iii) a measure of interactive capability from a setting-appropriate instrument. The failure side now also names "an unspecified impression gathered after the fact, which cannot fail" — because widening the row must not open the door the report spends §2.2 closing.
+
+**Item 4 (the reviewer's half-clause):** the §1.2 "weakly positive" sentence now opens "On the neighbouring evidence — **clinical (teach-back) and single-programme (the JArDinS cohort)** —", which makes it exact: the positive leaning rests on `F9` (clinical) and `F5` (inside the JArDinS programme), and on nothing wider.
+
+**No disagreement to record.** All six changes were made as proposed. The only judgement call was item 3d, where widening the Outcome row risked admitting retrospective impressions; that risk is handled by the "specified before + own falsifier" guard rather than by declining the widening.
