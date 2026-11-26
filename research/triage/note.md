@@ -78,6 +78,8 @@ Each pass is a full note with its own status table, counter-evidence and access 
 
 **What the wave did not do.** It did not update [`research/BRIEF.md`](../BRIEF.md) or the README index. Seven new notes change enough of the synthesis — the land and money picture in §1.3–1.4, the "+2 gezonde jaren" in §4, the participation counts — that a separate synthesis pass is the honest next step rather than a paragraph appended here. It also did not close #19 (§4) and did not reconcile the unmerged `review/26-28-proportionality` branch.
 
+**One limitation withdrawn after filing.** The #10 pass first reported its ecological half as thin because a delegated line had not returned. That line did return, and the pass verified it at source: the temperate food-forest scoping review records ten comparator studies and none on interaction with surrounding land use, half of all studies sit in a single food forest, and a full-text search of that review returns **zero** occurrences of *infiltration*, *hydrology*, *soil moisture* or *runoff* — so the water pathway has a documented absence of evidence rather than an assumed one **[D, verified by the Lead on the same PDF]**. What survives is sharper than the withdrawn claim: Dutch ecological protocols do exist (EU 2025/2360 descriptors, NDFF/FLORON, Sovon MUS and BMP-A, Bodemdierendagen, NMVB, i-Tree Canopy), but every one measures a grid square, an area of 10–250 ha, a postcode or a 30-site programme — **none measures a 0.1–1 ha garden**. See [`research/health-outcomes/note.md`](../health-outcomes/note.md) §4.4.
+
 ## 7. What this triage did not do
 
 - It did not re-open or close any issue. Closing #19 is a PI action.
