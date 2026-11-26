@@ -398,6 +398,21 @@ Every item below is a gap in the evidence searched, not a finding of absence.
 
 **Deliberate non-substitution.** Where a source was blocked, the note either uses a different, verified source for the same proposition (Goddard → Lyell) or says the proposition is not established. No blocked source's content has been reconstructed from a search snippet, an abstract, or memory.
 
+### 11.1 Delegation and verification
+
+Two bounded lines ran in parallel, each with the same retrieval rules and a prohibition on spawning further agents: **civic-technology sustainability, maintenance and automation bias**, and **task-level technical and regulatory evidence** (translation, transcription, retrieval-grounded answering, agents, data protection). Neither was allowed to design anything, and both were told that "not established" was a valid return. Their raw returns are in [`working/`](working/delegated-lines.md) and are **not** evidence in themselves.
+
+**What I re-retrieved and checked myself, and what changed:**
+
+- **Automation bias.** The delegated note reported "56.9% more commission errors"; that figure is not in the paper. Re-retrieved: commission-error rates of 65.8%, 53.5% and 51.7%, and omission-error increases of 33.3%, 24.5% and 26.7% **[S28]**. The note uses the retrieved figures. The delegated claim that interruptions had no effect is confirmed verbatim.
+- **Dutch ASR.** The delegated 0.691 WER for Whisper-large on Dutch broadcast data is correct (Table 2) but was reported without the comparison that makes it interpretable: the *medium* model scores 0.266 on the same data **[S23]**. The note states both.
+- **Machine translation.** I re-read the results section rather than the abstract: the XSTS scores (Tigrinya 2.73, Somali 2.96; "only 29% of Tigrinya messages and 40% of Somali messages received an averaged shifted score higher than 3"), the one-way design, the interpreter condition and the two Dutch compound failures are all verbatim **[S22]**. The "Dutch is a harder source language" claim is true as an automatic-metric and nine-of-fourteen XSTS statement; the note reports it that way and does not generalise it.
+- **Regulator statements.** Both Dutch AP items were re-retrieved and quoted verbatim, including the "always offer a human employee" condition **[S32]** and the evasive-answer and crisis-referral findings **[S33]**.
+- **Reporting hours.** The delegated 8→6-hour figure was confirmed verbatim, and the source's own "not fully representative" caveat was added **[S17]**. The first URL tried was a 404; the canonical one was recovered.
+- **Civic-tech discontinuation** and the **German e-government** case were retrieved directly rather than taken from the delegated return **[S14][S19]**.
+
+**Carried as child-reported and not re-retrieved:** Koenecke et al. on Whisper hallucination **[S24]**, RAGTruth **[S25]**, AgentDojo **[S26]**, Coelho & Valente **[S30]**, the uHelp prototype **[S31]**, the Pijnacker-Nootdorp audit **[S34]** and the INNOVADE policy brief **[S35]**. Each is marked in place. **No pivotal claim in this note rests on any of them** — they support, illustrate, or are used to decline a rate.
+
 ---
 
 ## 12. Adjacent questions noticed, not researched
