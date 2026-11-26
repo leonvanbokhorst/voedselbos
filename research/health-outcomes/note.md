@@ -277,7 +277,7 @@ States as in the sibling notes: **Supports** / **Contradicts** / **Insufficient*
 - Any temperate food-forest study measuring health outcomes against a matched control [U].
 - Any study of connectivity or biodiversity contribution at 0.1–1 ha in a Dutch city [U].
 - Whether ecological (herb-rich) management generates more complaints per m² than conventional management — the 263 "Lang gras" reports are suggestive, not a rate [U].
-- The participant voice: no verbatim volunteer or neighbour account exists in the public record [D, `S4` §4].
+- The participant voice: no verbatim resident account exists for **the anchor case** [D, `S4` §4]. **Corrected 27 November 2026:** this line previously generalised that to "the public record", which is false — [`../reciprocity/note.md`](../reciprocity/note.md) documents two volunteers quoted on a scheme's own webpage and a coordinator quoted by an evaluator, and [`../community/note.md`](../community/note.md) has one quoted volunteer line. `S4` is [`../meaning/note.md`](../meaning/note.md), whose finding was scoped to the closed food forest. The defensible claim, and the one this note relies on, is that none of the **instruments** this note uses can carry a participant voice.
 
 **Now established, where it was not in the first draft of this note:** that Dutch ecological protocols exist and can be named (NDFF/FLORON, Sovon MUS and BMP, Bodemdierendagen, NMVB, EU soil descriptors) — but **none is a site-scale standard for a 0.1–1 ha garden**, and for infiltration, water-holding, drought mortality and irrigation demand no protocol was found at any scale [D, `EB5`–`EB14`; U].
 
